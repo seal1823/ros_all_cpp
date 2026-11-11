@@ -1,0 +1,32 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from action_demo_cpp/action/OwnAction.action
+// generated code does not contain a copyright notice
+
+
+module action_demo_cpp {
+  module action {
+    struct OwnAction_Goal {
+      @verbatim (language="comment", text=
+        "request")
+      uint32 l_num;
+    };
+    module OwnAction_Result_Constants {
+      @verbatim (language="comment", text=
+        "成功值")
+      const uint32 SUCCESS = 1;
+      @verbatim (language="comment", text=
+        "失败值")
+      const uint32 FALSE = 0;
+    };
+    struct OwnAction_Result {
+      @verbatim (language="comment", text=
+        "处理结果")
+      uint32 result;
+    };
+    struct OwnAction_Feedback {
+      @verbatim (language="comment", text=
+        "feedback")
+      uint32 l_all_num;
+    };
+  };
+};

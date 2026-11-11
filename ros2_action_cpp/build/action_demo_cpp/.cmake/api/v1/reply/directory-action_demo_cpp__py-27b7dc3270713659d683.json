@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "action_demo_cpp__py",
+		"source" : "/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp/action_demo_cpp__py"
+	}
+}

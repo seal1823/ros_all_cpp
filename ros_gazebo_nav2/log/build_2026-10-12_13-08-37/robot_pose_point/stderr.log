@@ -1,0 +1,17 @@
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:[m[K In constructor ‘[01m[KSendMorePoint::SendMorePoint(const string&)[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:22:53:[m[K [01;35m[Kwarning: [m[Kconverting to ‘[01m[Kconst ParameterDescriptor[m[K’ {aka ‘[01m[Kconst rcl_interfaces::msg::ParameterDescriptor_<std::allocator<void> >[m[K’} from initializer list would use explicit constructor ‘[01m[Krcl_interfaces::msg::ParameterDescriptor_<ContainerAllocator>::ParameterDescriptor_(rosidl_runtime_cpp::MessageInitialization) [with ContainerAllocator = std::allocator<void>][m[K’
+   22 |         [01;35m[Kthis->declare_parameter<std::vector<double>>("goalpoint_x",{})[m[K;
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:22:53:[m[K [01;36m[Knote: [m[Kin C++11 and above a default constructor can be explicit
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:23:53:[m[K [01;35m[Kwarning: [m[Kconverting to ‘[01m[Kconst ParameterDescriptor[m[K’ {aka ‘[01m[Kconst rcl_interfaces::msg::ParameterDescriptor_<std::allocator<void> >[m[K’} from initializer list would use explicit constructor ‘[01m[Krcl_interfaces::msg::ParameterDescriptor_<ContainerAllocator>::ParameterDescriptor_(rosidl_runtime_cpp::MessageInitialization) [with ContainerAllocator = std::allocator<void>][m[K’
+   23 |         [01;35m[Kthis->declare_parameter<std::vector<double>>("goalpoint_y",{})[m[K;
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:23:53:[m[K [01;36m[Knote: [m[Kin C++11 and above a default constructor can be explicit
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:[m[K In member function ‘[01m[Kvoid SendMorePoint::SendMorePointCallBack()[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:45:22:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double, std::allocator<double> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+   45 |         for(int i=0;[01;35m[Ki<ix.size()[m[K;i++)
+      |                     [01;35m[K~^~~~~~~~~~[m[K
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:[m[K In lambda function:
+[01m[K/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_more_goal_point.cpp:75:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kgoal_handle[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   75 |                 [01;35m[KGoalHandleFollowWaypoints::SharedPtr goal_handle[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K

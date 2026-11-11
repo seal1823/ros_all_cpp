@@ -1,0 +1,200 @@
+[0.010s] Invoking command in '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg -- -j24 -l24
+[0.036s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.128s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.130s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.132s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.151s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.170s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[0.194s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.195s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.273s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.489s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.635s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.822s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.842s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.861s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.861s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.861s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.916s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.925s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.925s] -- Configured cppcheck include dirs: 
+[0.925s] -- Configured cppcheck exclude dirs and/or files: 
+[0.925s] -- Added test 'lint_cmake' to check CMake code style
+[0.926s] -- Added test 'uncrustify' to check C / C++ code style
+[0.926s] -- Configured uncrustify additional arguments: 
+[0.926s] -- Added test 'xmllint' to check XML markup files
+[0.927s] -- Configuring done
+[0.954s] -- Generating done
+[0.962s] -- Build files have been written to: /home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg
+[0.985s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_generator_c[0m
+[0.993s] [  2%] Built target create_own_msg__cpp
+[0.993s] [  5%] Built target create_own_msg__rs
+[0.994s] [ 13%] Built target create_own_msg__rosidl_generator_c
+[1.001s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_cpp[0m
+[1.002s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_c[0m
+[1.002s] [ 13%] Built target ament_cmake_python_copy_create_own_msg
+[1.002s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_fastrtps_c[0m
+[1.006s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_fastrtps_cpp[0m
+[1.006s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_introspection_cpp[0m
+[1.007s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_introspection_c[0m
+[1.015s] [ 22%] Built target create_own_msg__rosidl_typesupport_c
+[1.015s] [ 30%] Built target create_own_msg__rosidl_typesupport_cpp
+[1.018s] [ 38%] Built target create_own_msg__rosidl_typesupport_fastrtps_c
+[1.019s] [ 47%] Built target create_own_msg__rosidl_typesupport_fastrtps_cpp
+[1.023s] [ 55%] Built target create_own_msg__rosidl_typesupport_introspection_cpp
+[1.024s] [ 63%] Built target create_own_msg__rosidl_typesupport_introspection_c
+[1.025s] [35m[1mConsolidate compiler generated dependencies of target use_own_msg_sub[0m
+[1.027s] [35m[1mConsolidate compiler generated dependencies of target use_own_msg_topic[0m
+[1.037s] [ 69%] Built target use_own_msg_sub
+[1.041s] [ 69%] Built target create_own_msg
+[1.041s] [ 75%] Built target use_own_msg_topic
+[1.060s] [ 77%] Built target create_own_msg__py
+[1.068s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_generator_py[0m
+[1.079s] [ 83%] Built target create_own_msg__rosidl_generator_py
+[1.088s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.088s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_introspection_c__pyext[0m
+[1.089s] [35m[1mConsolidate compiler generated dependencies of target create_own_msg__rosidl_typesupport_c__pyext[0m
+[1.099s] [ 97%] Built target create_own_msg__rosidl_typesupport_introspection_c__pyext
+[1.099s] [100%] Built target create_own_msg__rosidl_typesupport_c__pyext
+[1.099s] [100%] Built target create_own_msg__rosidl_typesupport_fastrtps_c__pyext
+[1.168s] running egg_info
+[1.168s] writing create_own_msg.egg-info/PKG-INFO
+[1.168s] writing dependency_links to create_own_msg.egg-info/dependency_links.txt
+[1.168s] writing top-level names to create_own_msg.egg-info/top_level.txt
+[1.170s] reading manifest file 'create_own_msg.egg-info/SOURCES.txt'
+[1.171s] writing manifest file 'create_own_msg.egg-info/SOURCES.txt'
+[1.188s] [100%] Built target ament_cmake_python_build_create_own_msg_egg
+[1.199s] Invoked command in '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg -- -j24 -l24
+[1.208s] Invoking command in '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg
+[1.215s] -- Install configuration: ""
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/rosidl_interfaces/create_own_msg
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/own_msg.h
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_generator_c__visibility_control.h
+[1.215s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__functions.c
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__functions.h
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__struct.h
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.h
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/library_path.sh
+[1.216s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/library_path.dsv
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_generator_c.so
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.216s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_fastrtps_c.h
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_fastrtps_c.so
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.c
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_introspection_c.h
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_introspection_c.so
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_c.so
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.217s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/own_msg.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__builder.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__struct.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__traits.hpp
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.218s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/dds_fastrtps
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_fastrtps_cpp.so
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_introspection_cpp.hpp
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.cpp
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_introspection_cpp.so
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_cpp.so
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/pythonpath.sh
+[1.219s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/pythonpath.dsv
+[1.219s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info
+[1.219s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/PKG-INFO
+[1.219s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.220s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/top_level.txt
+[1.220s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_introspection_c.c
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.220s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/__init__.py
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_c.c
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/_own_msg.py
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/_own_msg_s.c
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/__init__.py
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.220s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/libcreate_own_msg__rosidl_generator_py.so
+[1.221s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.221s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.246s] Listing '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg'...
+[1.246s] Compiling '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/__init__.py'...
+[1.246s] Listing '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg'...
+[1.249s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.249s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_generator_py.so
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/rust_packages/create_own_msg
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/build.rs
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/lib.rs
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg
+[1.250s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg/rmw.rs
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg.rs
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/Cargo.toml
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/msg/OwnMsg.idl
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/msg/OwnMsg.msg
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/create_own_msg/use_own_msg_topic
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/create_own_msg/use_own_msg_sub
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/package_run_dependencies/create_own_msg
+[1.251s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/parent_prefix_path/create_own_msg
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/ament_prefix_path.sh
+[1.251s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/ament_prefix_path.dsv
+[1.251s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/path.sh
+[1.251s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/path.dsv
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.bash
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.sh
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.zsh
+[1.252s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.dsv
+[1.252s] -- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/package.dsv
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/packages/create_own_msg
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cExport.cmake
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cExport-noconfig.cmake
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cExport.cmake
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cExport.cmake
+[1.252s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cppExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cppExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cppExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cppExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_pyExport.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_pyExport-noconfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_libraries-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_targets-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msgConfig.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msgConfig-version.cmake
+[1.253s] -- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/package.xml
+[1.255s] Invoked command in '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg

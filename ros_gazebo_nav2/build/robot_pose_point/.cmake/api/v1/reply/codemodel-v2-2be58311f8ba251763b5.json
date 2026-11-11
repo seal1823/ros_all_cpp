@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8c6b6e289d34d3a0663e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "robot_pose_point",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_get_tf_position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_get_tf_position-a87412c91974c0f6dbed.json",
+					"name" : "robot_get_tf_position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_initial_position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_initial_position-38e7b61e1db777c1234b.json",
+					"name" : "robot_initial_position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_pose_point_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_pose_point_uninstall-d74269ec6d80973ef81e.json",
+					"name" : "robot_pose_point_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_send_goal_simple_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_send_goal_simple_point-56ddb03b7b8de2f54cb8.json",
+					"name" : "robot_send_goal_simple_point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_send_more_goal_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_send_more_goal_point-870a24f4bd9650bd3314.json",
+					"name" : "robot_send_more_goal_point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f5cb533a638a5b0a23a9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point",
+		"source" : "/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

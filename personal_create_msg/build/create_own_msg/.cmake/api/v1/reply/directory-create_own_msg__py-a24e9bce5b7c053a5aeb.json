@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "create_own_msg__py",
+		"source" : "/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg/create_own_msg__py"
+	}
+}

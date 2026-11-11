@@ -1,0 +1,264 @@
+[0.074s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.074s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=24, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x78c06c468fa0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x78c06c4689a0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x78c06c4689a0>>)
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.210s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.210s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.218s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extensions ['ignore', 'ignore_ament_install']
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extension 'ignore'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extension 'ignore_ament_install'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extensions ['colcon_pkg']
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extension 'colcon_pkg'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extensions ['colcon_meta']
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extension 'colcon_meta'
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extensions ['ros']
+[0.219s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_description) by extension 'ros'
+[0.221s] DEBUG:colcon.colcon_core.package_identification:Package 'src/robot_description' with type 'ros.ament_cmake' and name 'robot_description'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extensions ['ignore', 'ignore_ament_install']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extension 'ignore'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extension 'ignore_ament_install'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extensions ['colcon_pkg']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extension 'colcon_pkg'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extensions ['colcon_meta']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extension 'colcon_meta'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extensions ['ros']
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_navigation2) by extension 'ros'
+[0.221s] DEBUG:colcon.colcon_core.package_identification:Package 'src/robot_navigation2' with type 'ros.ament_cmake' and name 'robot_navigation2'
+[0.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extensions ['ignore', 'ignore_ament_install']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extension 'ignore'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extension 'ignore_ament_install'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extensions ['colcon_pkg']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extension 'colcon_pkg'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extensions ['colcon_meta']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extension 'colcon_meta'
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extensions ['ros']
+[0.222s] Level 1:colcon.colcon_core.package_identification:_identify(src/robot_pose_point) by extension 'ros'
+[0.222s] DEBUG:colcon.colcon_core.package_identification:Package 'src/robot_pose_point' with type 'ros.ament_cmake' and name 'robot_pose_point'
+[0.222s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.222s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.222s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.222s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.222s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.242s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.243s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.244s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 383 installed packages in /opt/ros/humble
+[0.246s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_args' from command line to 'None'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_target' from command line to 'None'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_clean_cache' from command line to 'False'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_clean_first' from command line to 'False'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'cmake_force_configure' from command line to 'False'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'ament_cmake_args' from command line to 'None'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'catkin_cmake_args' from command line to 'None'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_description' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.274s] DEBUG:colcon.colcon_core.verb:Building package 'robot_description' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description', 'merge_install': False, 'path': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_description', 'symlink_install': False, 'test_result_base': None}
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_args' from command line to 'None'
+[0.274s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_target' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_clean_cache' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_clean_first' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'cmake_force_configure' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'ament_cmake_args' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'catkin_cmake_args' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_navigation2' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.275s] DEBUG:colcon.colcon_core.verb:Building package 'robot_navigation2' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2', 'merge_install': False, 'path': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_navigation2', 'symlink_install': False, 'test_result_base': None}
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_args' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_target' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_clean_cache' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_clean_first' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'cmake_force_configure' from command line to 'False'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'ament_cmake_args' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'catkin_cmake_args' from command line to 'None'
+[0.275s] Level 5:colcon.colcon_core.verb:set package 'robot_pose_point' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.275s] DEBUG:colcon.colcon_core.verb:Building package 'robot_pose_point' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point', 'merge_install': False, 'path': '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point', 'symlink_install': False, 'test_result_base': None}
+[0.275s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.276s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.276s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_description' with build type 'ament_cmake'
+[0.276s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_description'
+[0.278s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.278s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.278s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.280s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_navigation2' with build type 'ament_cmake'
+[0.280s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_navigation2'
+[0.280s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.280s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.282s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point' with build type 'ament_cmake'
+[0.282s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point'
+[0.282s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.282s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.288s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description -- -j24 -l24
+[0.291s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2 -- -j24 -l24
+[0.293s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24
+[0.321s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2 -- -j24 -l24
+[0.333s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2
+[0.334s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description -- -j24 -l24
+[0.336s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description
+[0.340s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_navigation2)
+[0.341s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_navigation2
+[0.346s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2' for CMake module files
+[0.347s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2' for CMake config files
+[0.347s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_navigation2', 'cmake_prefix_path')
+[0.347s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.ps1'
+[0.348s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.dsv'
+[0.348s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.sh'
+[0.349s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/bin'
+[0.349s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/lib/pkgconfig/robot_navigation2.pc'
+[0.349s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/lib/python3.10/site-packages'
+[0.349s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/bin'
+[0.349s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.ps1'
+[0.350s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.dsv'
+[0.350s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.sh'
+[0.351s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.bash'
+[0.351s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.zsh'
+[0.352s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/colcon-core/packages/robot_navigation2)
+[0.352s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_navigation2)
+[0.352s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2' for CMake module files
+[0.352s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2' for CMake config files
+[0.353s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_navigation2', 'cmake_prefix_path')
+[0.353s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.ps1'
+[0.353s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.dsv'
+[0.353s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/hook/cmake_prefix_path.sh'
+[0.353s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/bin'
+[0.353s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/lib/pkgconfig/robot_navigation2.pc'
+[0.354s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/lib/python3.10/site-packages'
+[0.354s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/bin'
+[0.354s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.ps1'
+[0.354s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.dsv'
+[0.354s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.sh'
+[0.355s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.bash'
+[0.355s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/robot_navigation2/package.zsh'
+[0.355s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_navigation2/share/colcon-core/packages/robot_navigation2)
+[0.356s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_description)
+[0.356s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description' for CMake module files
+[0.356s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_description
+[0.357s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description' for CMake config files
+[0.357s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_description', 'cmake_prefix_path')
+[0.357s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.ps1'
+[0.357s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.dsv'
+[0.357s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.sh'
+[0.357s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/bin'
+[0.357s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/lib/pkgconfig/robot_description.pc'
+[0.358s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/lib/python3.10/site-packages'
+[0.358s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/bin'
+[0.358s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.ps1'
+[0.358s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.dsv'
+[0.358s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.sh'
+[0.359s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.bash'
+[0.359s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.zsh'
+[0.359s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/colcon-core/packages/robot_description)
+[0.359s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_description)
+[0.359s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description' for CMake module files
+[0.360s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description' for CMake config files
+[0.360s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_description', 'cmake_prefix_path')
+[0.360s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.ps1'
+[0.360s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.dsv'
+[0.360s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/hook/cmake_prefix_path.sh'
+[0.360s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/bin'
+[0.360s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/lib/pkgconfig/robot_description.pc'
+[0.361s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/lib/python3.10/site-packages'
+[0.361s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/bin'
+[0.361s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.ps1'
+[0.361s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.dsv'
+[0.362s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.sh'
+[0.362s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.bash'
+[0.362s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/robot_description/package.zsh'
+[0.362s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_description/share/colcon-core/packages/robot_description)
+[3.610s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24
+[3.613s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point
+[3.640s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_pose_point)
+[3.641s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point' for CMake module files
+[3.641s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point
+[3.641s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point' for CMake config files
+[3.642s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_pose_point', 'cmake_prefix_path')
+[3.642s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.ps1'
+[3.643s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.dsv'
+[3.643s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.sh'
+[3.643s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib'
+[3.644s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/bin'
+[3.644s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/pkgconfig/robot_pose_point.pc'
+[3.644s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/python3.10/site-packages'
+[3.644s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/bin'
+[3.645s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.ps1'
+[3.645s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.dsv'
+[3.646s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.sh'
+[3.646s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.bash'
+[3.646s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.zsh'
+[3.647s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/colcon-core/packages/robot_pose_point)
+[3.647s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(robot_pose_point)
+[3.647s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point' for CMake module files
+[3.647s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point' for CMake config files
+[3.648s] Level 1:colcon.colcon_core.shell:create_environment_hook('robot_pose_point', 'cmake_prefix_path')
+[3.648s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.ps1'
+[3.648s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.dsv'
+[3.648s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/hook/cmake_prefix_path.sh'
+[3.649s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib'
+[3.649s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/bin'
+[3.649s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/pkgconfig/robot_pose_point.pc'
+[3.649s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/python3.10/site-packages'
+[3.649s] Level 1:colcon.colcon_core.environment:checking '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/bin'
+[3.649s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.ps1'
+[3.650s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.dsv'
+[3.650s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.sh'
+[3.650s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.bash'
+[3.651s] INFO:colcon.colcon_core.shell:Creating package script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.zsh'
+[3.651s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/colcon-core/packages/robot_pose_point)
+[3.651s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[3.652s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[3.652s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[3.652s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[3.659s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[3.659s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[3.659s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[3.678s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[3.678s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/local_setup.ps1'
+[3.679s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/_local_setup_util_ps1.py'
+[3.680s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/setup.ps1'
+[3.681s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/local_setup.sh'
+[3.681s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/_local_setup_util_sh.py'
+[3.682s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/setup.sh'
+[3.682s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/local_setup.bash'
+[3.683s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/setup.bash'
+[3.683s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/local_setup.zsh'
+[3.684s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/setup.zsh'

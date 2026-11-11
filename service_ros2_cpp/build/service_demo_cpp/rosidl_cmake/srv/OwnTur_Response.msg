@@ -1,0 +1,4 @@
+
+int8 SUCCESS = 1  #成功返回值
+int8 FAIL = 0     #失败返回值
+int8 result       #处理结果

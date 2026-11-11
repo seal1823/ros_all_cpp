@@ -1,0 +1,13 @@
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/uninstall.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/robot_pose_point_uninstall.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/robot_initial_position.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/robot_get_tf_position.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/robot_send_goal_simple_point.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/robot_send_more_goal_point.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/test.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/edit_cache.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/rebuild_cache.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/list_install_components.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/install.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/install/local.dir
+/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point/CMakeFiles/install/strip.dir

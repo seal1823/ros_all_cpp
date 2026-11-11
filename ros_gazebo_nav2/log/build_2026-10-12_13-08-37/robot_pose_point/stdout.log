@@ -1,0 +1,29 @@
+[ 25%] Built target robot_initial_position
+[ 50%] Built target robot_get_tf_position
+[ 75%] Built target robot_send_goal_simple_point
+[ 87%] [32mBuilding CXX object CMakeFiles/robot_send_more_goal_point.dir/src/robot_send_more_goal_point.cpp.o[0m
+[100%] [32m[1mLinking CXX executable robot_send_more_goal_point[0m
+[100%] Built target robot_send_more_goal_point
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_initial_position
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_get_tf_position
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_send_goal_simple_point
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_send_more_goal_point
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/config/goal_point.yaml
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/launch/start_nav2_point.launch.py
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/package_run_dependencies/robot_pose_point
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/parent_prefix_path/robot_pose_point
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.sh
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.dsv
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.bash
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.sh
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.zsh
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.dsv
+-- Symlinking: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.dsv
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/packages/robot_pose_point
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig.cmake
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig-version.cmake
+-- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.xml

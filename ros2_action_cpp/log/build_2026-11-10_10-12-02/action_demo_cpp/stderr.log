@@ -1,0 +1,5 @@
+[31mCMake Error at CMakeLists.txt:25 (rosidl_typesupport_cpp):
+  Unknown CMake command "rosidl_typesupport_cpp".
+
+[0m
+gmake: *** [Makefile:761：cmake_check_build_system] 错误 1

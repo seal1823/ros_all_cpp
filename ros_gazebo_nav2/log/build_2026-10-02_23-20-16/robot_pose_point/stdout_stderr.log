@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target robot_initial_position[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_initial_position.dir/src/robot_initial_position.cpp.o[0m
+[100%] [32m[1mLinking CXX executable robot_initial_position[0m
+[100%] Built target robot_initial_position
+-- Install configuration: ""
+-- Installing: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_initial_position
+-- Set runtime path of "/home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_initial_position" to ""
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/package_run_dependencies/robot_pose_point
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/parent_prefix_path/robot_pose_point
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.sh
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.sh
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.dsv
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.bash
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.sh
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.zsh
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.dsv
+-- Installing: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.dsv
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/packages/robot_pose_point
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig.cmake
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig-version.cmake
+-- Up-to-date: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.xml

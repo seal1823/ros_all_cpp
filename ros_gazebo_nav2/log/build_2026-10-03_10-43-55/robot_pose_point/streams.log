@@ -1,0 +1,28 @@
+[0.009s] Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24
+[0.044s] [35m[1mConsolidate compiler generated dependencies of target robot_get_tf_position[0m
+[0.057s] [ 50%] Built target robot_initial_position
+[0.057s] [ 75%] [32mBuilding CXX object CMakeFiles/robot_get_tf_position.dir/src/robot_get_tf_position.cpp.o[0m
+[5.469s] [100%] [32m[1mLinking CXX executable robot_get_tf_position[0m
+[5.769s] [100%] Built target robot_get_tf_position
+[5.780s] Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24
+[5.781s] Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point
+[5.788s] -- Install configuration: ""
+[5.788s] -- Execute custom install script
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_initial_position
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/lib/robot_pose_point/robot_get_tf_position
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/package_run_dependencies/robot_pose_point
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/parent_prefix_path/robot_pose_point
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.sh
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.dsv
+[5.789s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.sh
+[5.790s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/environment/path.dsv
+[5.790s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.bash
+[5.790s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.sh
+[5.790s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.zsh
+[5.790s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/local_setup.dsv
+[5.790s] -- Symlinking: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.dsv
+[5.799s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/ament_index/resource_index/packages/robot_pose_point
+[5.799s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig.cmake
+[5.799s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig-version.cmake
+[5.799s] -- Up-to-date symlink: /home/man_sui/ros_all_cpp/ros_gazebo_nav2/install/robot_pose_point/share/robot_pose_point/package.xml
+[5.801s] Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point

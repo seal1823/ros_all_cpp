@@ -1,0 +1,503 @@
+[0.000000] (-) TimerEvent: {}
+[0.000202] (action_demo_cpp) JobQueued: {'identifier': 'action_demo_cpp', 'dependencies': OrderedDict()}
+[0.000476] (action_demo_cpp) JobStarted: {'identifier': 'action_demo_cpp'}
+[0.099778] (-) TimerEvent: {}
+[0.200050] (-) TimerEvent: {}
+[0.300304] (-) TimerEvent: {}
+[0.400582] (-) TimerEvent: {}
+[0.500837] (-) TimerEvent: {}
+[0.601086] (-) TimerEvent: {}
+[0.701302] (-) TimerEvent: {}
+[0.801571] (-) TimerEvent: {}
+[0.901855] (-) TimerEvent: {}
+[1.002148] (-) TimerEvent: {}
+[1.102486] (-) TimerEvent: {}
+[1.202827] (-) TimerEvent: {}
+[1.303137] (-) TimerEvent: {}
+[1.403450] (-) TimerEvent: {}
+[1.503868] (-) TimerEvent: {}
+[1.604219] (-) TimerEvent: {}
+[1.704525] (-) TimerEvent: {}
+[1.804865] (-) TimerEvent: {}
+[1.905196] (-) TimerEvent: {}
+[2.005548] (-) TimerEvent: {}
+[2.105980] (-) TimerEvent: {}
+[2.206361] (-) TimerEvent: {}
+[2.306717] (-) TimerEvent: {}
+[2.407113] (-) TimerEvent: {}
+[2.507493] (-) TimerEvent: {}
+[2.607825] (-) TimerEvent: {}
+[2.708146] (-) TimerEvent: {}
+[2.808555] (-) TimerEvent: {}
+[2.908949] (-) TimerEvent: {}
+[3.009284] (-) TimerEvent: {}
+[3.109671] (-) TimerEvent: {}
+[3.210004] (-) TimerEvent: {}
+[3.310300] (-) TimerEvent: {}
+[3.410594] (-) TimerEvent: {}
+[3.510945] (-) TimerEvent: {}
+[3.611243] (-) TimerEvent: {}
+[3.711585] (-) TimerEvent: {}
+[3.811946] (-) TimerEvent: {}
+[3.912265] (-) TimerEvent: {}
+[4.012558] (-) TimerEvent: {}
+[4.112904] (-) TimerEvent: {}
+[4.213278] (-) TimerEvent: {}
+[4.313645] (-) TimerEvent: {}
+[4.413914] (-) TimerEvent: {}
+[4.514270] (-) TimerEvent: {}
+[4.614581] (-) TimerEvent: {}
+[4.714888] (-) TimerEvent: {}
+[4.815232] (-) TimerEvent: {}
+[4.915564] (-) TimerEvent: {}
+[5.016070] (-) TimerEvent: {}
+[5.116415] (-) TimerEvent: {}
+[5.216704] (-) TimerEvent: {}
+[5.317003] (-) TimerEvent: {}
+[5.417295] (-) TimerEvent: {}
+[5.517584] (-) TimerEvent: {}
+[5.617816] (-) TimerEvent: {}
+[5.718098] (-) TimerEvent: {}
+[5.818367] (-) TimerEvent: {}
+[5.918662] (-) TimerEvent: {}
+[6.019024] (-) TimerEvent: {}
+[6.119294] (-) TimerEvent: {}
+[6.219546] (-) TimerEvent: {}
+[6.319844] (-) TimerEvent: {}
+[6.420147] (-) TimerEvent: {}
+[6.520384] (-) TimerEvent: {}
+[6.620609] (-) TimerEvent: {}
+[6.720827] (-) TimerEvent: {}
+[6.821027] (-) TimerEvent: {}
+[6.921224] (-) TimerEvent: {}
+[7.021471] (-) TimerEvent: {}
+[7.121742] (-) TimerEvent: {}
+[7.222125] (-) TimerEvent: {}
+[7.322372] (-) TimerEvent: {}
+[7.422619] (-) TimerEvent: {}
+[7.522856] (-) TimerEvent: {}
+[7.623074] (-) TimerEvent: {}
+[7.723319] (-) TimerEvent: {}
+[7.823545] (-) TimerEvent: {}
+[7.923832] (-) TimerEvent: {}
+[8.024128] (-) TimerEvent: {}
+[8.124398] (-) TimerEvent: {}
+[8.224649] (-) TimerEvent: {}
+[8.324912] (-) TimerEvent: {}
+[8.425178] (-) TimerEvent: {}
+[8.525419] (-) TimerEvent: {}
+[8.625668] (-) TimerEvent: {}
+[8.725950] (-) TimerEvent: {}
+[8.826213] (-) TimerEvent: {}
+[8.926449] (-) TimerEvent: {}
+[9.026677] (-) TimerEvent: {}
+[9.126955] (-) TimerEvent: {}
+[9.227189] (-) TimerEvent: {}
+[9.327436] (-) TimerEvent: {}
+[9.427683] (-) TimerEvent: {}
+[9.527891] (-) TimerEvent: {}
+[9.628085] (-) TimerEvent: {}
+[9.728297] (-) TimerEvent: {}
+[9.828528] (-) TimerEvent: {}
+[9.928717] (-) TimerEvent: {}
+[10.028948] (-) TimerEvent: {}
+[10.129216] (-) TimerEvent: {}
+[10.229469] (-) TimerEvent: {}
+[10.329692] (-) TimerEvent: {}
+[10.429974] (-) TimerEvent: {}
+[10.530268] (-) TimerEvent: {}
+[10.630534] (-) TimerEvent: {}
+[10.730847] (-) TimerEvent: {}
+[10.831131] (-) TimerEvent: {}
+[10.931390] (-) TimerEvent: {}
+[11.031632] (-) TimerEvent: {}
+[11.131943] (-) TimerEvent: {}
+[11.232190] (-) TimerEvent: {}
+[11.332450] (-) TimerEvent: {}
+[11.432703] (-) TimerEvent: {}
+[11.532991] (-) TimerEvent: {}
+[11.633222] (-) TimerEvent: {}
+[11.733473] (-) TimerEvent: {}
+[11.833742] (-) TimerEvent: {}
+[11.934122] (-) TimerEvent: {}
+[12.034382] (-) TimerEvent: {}
+[12.134605] (-) TimerEvent: {}
+[12.234840] (-) TimerEvent: {}
+[12.335099] (-) TimerEvent: {}
+[12.435350] (-) TimerEvent: {}
+[12.535635] (-) TimerEvent: {}
+[12.635909] (-) TimerEvent: {}
+[12.736163] (-) TimerEvent: {}
+[12.836454] (-) TimerEvent: {}
+[12.936725] (-) TimerEvent: {}
+[13.037047] (-) TimerEvent: {}
+[13.137413] (-) TimerEvent: {}
+[13.237673] (-) TimerEvent: {}
+[13.337929] (-) TimerEvent: {}
+[13.438139] (-) TimerEvent: {}
+[13.538366] (-) TimerEvent: {}
+[13.638670] (-) TimerEvent: {}
+[13.738933] (-) TimerEvent: {}
+[13.839189] (-) TimerEvent: {}
+[13.939429] (-) TimerEvent: {}
+[14.039695] (-) TimerEvent: {}
+[14.140018] (-) TimerEvent: {}
+[14.240303] (-) TimerEvent: {}
+[14.340569] (-) TimerEvent: {}
+[14.440801] (-) TimerEvent: {}
+[14.541057] (-) TimerEvent: {}
+[14.641341] (-) TimerEvent: {}
+[14.741588] (-) TimerEvent: {}
+[14.841838] (-) TimerEvent: {}
+[14.942138] (-) TimerEvent: {}
+[15.042443] (-) TimerEvent: {}
+[15.142787] (-) TimerEvent: {}
+[15.243060] (-) TimerEvent: {}
+[15.343299] (-) TimerEvent: {}
+[15.443545] (-) TimerEvent: {}
+[15.543845] (-) TimerEvent: {}
+[15.644171] (-) TimerEvent: {}
+[15.744450] (-) TimerEvent: {}
+[15.844819] (-) TimerEvent: {}
+[15.945096] (-) TimerEvent: {}
+[16.045371] (-) TimerEvent: {}
+[16.145674] (-) TimerEvent: {}
+[16.245946] (-) TimerEvent: {}
+[16.346195] (-) TimerEvent: {}
+[16.446471] (-) TimerEvent: {}
+[16.546852] (-) TimerEvent: {}
+[16.647149] (-) TimerEvent: {}
+[16.747435] (-) TimerEvent: {}
+[16.847736] (-) TimerEvent: {}
+[16.948001] (-) TimerEvent: {}
+[17.048283] (-) TimerEvent: {}
+[17.148545] (-) TimerEvent: {}
+[17.248787] (-) TimerEvent: {}
+[17.348991] (-) TimerEvent: {}
+[17.449247] (-) TimerEvent: {}
+[17.549550] (-) TimerEvent: {}
+[17.649869] (-) TimerEvent: {}
+[17.750160] (-) TimerEvent: {}
+[17.850410] (-) TimerEvent: {}
+[17.950667] (-) TimerEvent: {}
+[18.050929] (-) TimerEvent: {}
+[18.151187] (-) TimerEvent: {}
+[18.251409] (-) TimerEvent: {}
+[18.351630] (-) TimerEvent: {}
+[18.451870] (-) TimerEvent: {}
+[18.552107] (-) TimerEvent: {}
+[18.652340] (-) TimerEvent: {}
+[18.752591] (-) TimerEvent: {}
+[18.852876] (-) TimerEvent: {}
+[18.953228] (-) TimerEvent: {}
+[19.053511] (-) TimerEvent: {}
+[19.153714] (-) TimerEvent: {}
+[19.253915] (-) TimerEvent: {}
+[19.354138] (-) TimerEvent: {}
+[19.454363] (-) TimerEvent: {}
+[19.554637] (-) TimerEvent: {}
+[19.654959] (-) TimerEvent: {}
+[19.755231] (-) TimerEvent: {}
+[19.855551] (-) TimerEvent: {}
+[19.955891] (-) TimerEvent: {}
+[20.056171] (-) TimerEvent: {}
+[20.156414] (-) TimerEvent: {}
+[20.256641] (-) TimerEvent: {}
+[20.356904] (-) TimerEvent: {}
+[20.457138] (-) TimerEvent: {}
+[20.557455] (-) TimerEvent: {}
+[20.657795] (-) TimerEvent: {}
+[20.758005] (-) TimerEvent: {}
+[20.858251] (-) TimerEvent: {}
+[20.958490] (-) TimerEvent: {}
+[21.058752] (-) TimerEvent: {}
+[21.159010] (-) TimerEvent: {}
+[21.259248] (-) TimerEvent: {}
+[21.359509] (-) TimerEvent: {}
+[21.459802] (-) TimerEvent: {}
+[21.560004] (-) TimerEvent: {}
+[21.660235] (-) TimerEvent: {}
+[21.760489] (-) TimerEvent: {}
+[21.860784] (-) TimerEvent: {}
+[21.961021] (-) TimerEvent: {}
+[22.061274] (-) TimerEvent: {}
+[22.161468] (-) TimerEvent: {}
+[22.261703] (-) TimerEvent: {}
+[22.361959] (-) TimerEvent: {}
+[22.462173] (-) TimerEvent: {}
+[22.562372] (-) TimerEvent: {}
+[22.662618] (-) TimerEvent: {}
+[22.762934] (-) TimerEvent: {}
+[22.863182] (-) TimerEvent: {}
+[22.963437] (-) TimerEvent: {}
+[23.063747] (-) TimerEvent: {}
+[23.164050] (-) TimerEvent: {}
+[23.264325] (-) TimerEvent: {}
+[23.364592] (-) TimerEvent: {}
+[23.464852] (-) TimerEvent: {}
+[23.565106] (-) TimerEvent: {}
+[23.665416] (-) TimerEvent: {}
+[23.765729] (-) TimerEvent: {}
+[23.866014] (-) TimerEvent: {}
+[23.966255] (-) TimerEvent: {}
+[24.066498] (-) TimerEvent: {}
+[24.166793] (-) TimerEvent: {}
+[24.267123] (-) TimerEvent: {}
+[24.367436] (-) TimerEvent: {}
+[24.467747] (-) TimerEvent: {}
+[24.568042] (-) TimerEvent: {}
+[24.668324] (-) TimerEvent: {}
+[24.768654] (-) TimerEvent: {}
+[24.868917] (-) TimerEvent: {}
+[24.969208] (-) TimerEvent: {}
+[25.069464] (-) TimerEvent: {}
+[25.169729] (-) TimerEvent: {}
+[25.270006] (-) TimerEvent: {}
+[25.370280] (-) TimerEvent: {}
+[25.470497] (-) TimerEvent: {}
+[25.570738] (-) TimerEvent: {}
+[25.670965] (-) TimerEvent: {}
+[25.771195] (-) TimerEvent: {}
+[25.871411] (-) TimerEvent: {}
+[25.971707] (-) TimerEvent: {}
+[26.072009] (-) TimerEvent: {}
+[26.172253] (-) TimerEvent: {}
+[26.272545] (-) TimerEvent: {}
+[26.372742] (-) TimerEvent: {}
+[26.472970] (-) TimerEvent: {}
+[26.573229] (-) TimerEvent: {}
+[26.673444] (-) TimerEvent: {}
+[26.773745] (-) TimerEvent: {}
+[26.874019] (-) TimerEvent: {}
+[26.974342] (-) TimerEvent: {}
+[27.074601] (-) TimerEvent: {}
+[27.174913] (-) TimerEvent: {}
+[27.275198] (-) TimerEvent: {}
+[27.375513] (-) TimerEvent: {}
+[27.475788] (-) TimerEvent: {}
+[27.576018] (-) TimerEvent: {}
+[27.676267] (-) TimerEvent: {}
+[27.776560] (-) TimerEvent: {}
+[27.876835] (-) TimerEvent: {}
+[27.977127] (-) TimerEvent: {}
+[28.077428] (-) TimerEvent: {}
+[28.177728] (-) TimerEvent: {}
+[28.278005] (-) TimerEvent: {}
+[28.378338] (-) TimerEvent: {}
+[28.478595] (-) TimerEvent: {}
+[28.578845] (-) TimerEvent: {}
+[28.679112] (-) TimerEvent: {}
+[28.779357] (-) TimerEvent: {}
+[28.879622] (-) TimerEvent: {}
+[28.979993] (-) TimerEvent: {}
+[29.080293] (-) TimerEvent: {}
+[29.180556] (-) TimerEvent: {}
+[29.280848] (-) TimerEvent: {}
+[29.381116] (-) TimerEvent: {}
+[29.481358] (-) TimerEvent: {}
+[29.581646] (-) TimerEvent: {}
+[29.681999] (-) TimerEvent: {}
+[29.782250] (-) TimerEvent: {}
+[29.882541] (-) TimerEvent: {}
+[29.982856] (-) TimerEvent: {}
+[30.032131] (action_demo_cpp) JobProgress: {'identifier': 'action_demo_cpp', 'progress': 'cmake'}
+[30.033882] (action_demo_cpp) JobProgress: {'identifier': 'action_demo_cpp', 'progress': 'build'}
+[30.035742] (action_demo_cpp) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp', '--', '-j24', '-l24'], 'cwd': '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp', 'env': OrderedDict([('CODEX_TECTONIC_PATH', '/usr/lib/chatgpt/resources/tectonic/tectonic'), ('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CODEX_SAGE_BACKFILL_TRACKER_TAB_REUSE', '1'), ('CODEX_CI', '1'), ('LANGUAGE', 'zh_CN:zh:en_US:en'), ('USER', 'man_sui'), ('LC_TIME', 'zh_CN.UTF-8'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'Codex Desktop'), ('CODEX_SHELL', '1'), ('XDG_SESSION_TYPE', 'x11'), ('LOG_FORMAT', 'json'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('CODEX_CLI_PATH', '/usr/lib/chatgpt/resources/codex'), ('HOME', '/home/man_sui'), ('CHROME_DESKTOP', 'chatgpt.desktop'), ('CONDA_SHLVL', '0'), ('DISABLE_AUTO_UPDATE', 'true'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/chatgpt.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('PAGER', 'cat'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('MANAGERPID', '1778'), ('CODEX_APP_TOOLS_PIPE_PATH', '/tmp/codex-app-tools/0e7dc907-8b01-4ac4-8a4a-d9f6a3b775ee.sock'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2202'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('_CE_M', ''), ('_CONDA_ROOT', '/home/man_sui/miniconda3'), ('CODEX_MCP_NODE_PATH', '/usr/lib/chatgpt/resources/cua_node/bin/node'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '8708'), ('IM_CONFIG_PHASE', '1'), ('CODEX_PERMISSION_PROFILE', ':workspace'), ('CODEX_TOOL_CALL_ID', 'call_z8OdwA7repl84LYX1tk3XsiW'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'fcitx'), ('ZSH_TMUX_AUTOSTARTED', 'true'), ('LOGNAME', 'man_sui'), ('JOURNAL_STREAM', '8:22082'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('CODEX_APPLY_PATCH_PRESERVE_LINE_ENDINGS', '1'), ('RUST_LOG', 'warn'), ('USERNAME', 'man_sui'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('FC_FONTATIONS', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/home/man_sui/.local/bin:/home/man_sui/.local/bin:/home/man_sui/.codex/tmp/arg0-linux/codex-arg04lP64d:/home/man_sui/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override:/home/man_sui/.local/bin:/home/man_sui/miniconda3/condabin:/opt/ros/humble/bin:/home/man_sui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/man_sui/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/fallback:/usr/lib/chatgpt/resources'), ('SESSION_MANAGER', 'local/Legion-Y7000P-IRX10:@/tmp/.ICE-unix/2142,unix/Legion-Y7000P-IRX10:/tmp/.ICE-unix/2142'), ('CODEX_VERSION', '0.163.0-alpha.10.2'), ('CODEX_SESSION_ID', '01a1baed-655f-76d3-9d7c-b2cc69da7eb2'), ('INVOCATION_ID', '47d0d70f7d6348d5b3dd2b1b8310b3eb'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'C.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=fcitx'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', ''), ('BROWSER_USE_ACCESS_VERIFYING_IDENTITY', 'MCowBQYDK2VwAyEAbDWA0CFOMIgP+wXhDIIFkOU2qo4bAll1jrumUe2pPrU='), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/man_sui/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CODEX_THREAD_ID', '01a1baed-655f-76d3-9d7c-b2cc69da7eb2'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('_CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('CODEX_TASK_WORKSPACE_VERIFYING_IDENTITY', 'MCowBQYDK2VwAyEAbDWA0CFOMIgP+wXhDIIFkOU2qo4bAll1jrumUe2pPrU='), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp'), ('LC_ALL', 'C.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('ZSH_TMUX_AUTOSTART', 'false'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[30.082945] (-) TimerEvent: {}
+[30.091847] (action_demo_cpp) StdoutLine: {'line': b'[  8%] Built target action_demo_cpp__rosidl_generator_c\n'}
+[30.092416] (action_demo_cpp) StdoutLine: {'line': b'[ 13%] Built target action_demo_cpp__rs\n'}
+[30.092498] (action_demo_cpp) StdoutLine: {'line': b'[ 13%] Built target action_demo_cpp__cpp\n'}
+[30.100225] (action_demo_cpp) StdoutLine: {'line': b'[ 13%] Built target ament_cmake_python_copy_action_demo_cpp\n'}
+[30.110873] (action_demo_cpp) StdoutLine: {'line': b'[ 27%] Built target action_demo_cpp__rosidl_typesupport_introspection_cpp\n'}
+[30.111235] (action_demo_cpp) StdoutLine: {'line': b'[ 30%] Built target action_demo_cpp__rosidl_typesupport_introspection_c\n'}
+[30.111370] (action_demo_cpp) StdoutLine: {'line': b'[ 38%] Built target action_demo_cpp__rosidl_typesupport_cpp\n'}
+[30.111488] (action_demo_cpp) StdoutLine: {'line': b'[ 47%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_c\n'}
+[30.115343] (action_demo_cpp) StdoutLine: {'line': b'[ 55%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_cpp\n'}
+[30.115907] (action_demo_cpp) StdoutLine: {'line': b'[ 63%] Built target action_demo_cpp__rosidl_typesupport_c\n'}
+[30.130029] (action_demo_cpp) StdoutLine: {'line': b'[ 69%] Built target create_service\n'}
+[30.131971] (action_demo_cpp) StdoutLine: {'line': b'[ 69%] Built target action_demo_cpp\n'}
+[30.132273] (action_demo_cpp) StdoutLine: {'line': b'[ 72%] Building CXX object CMakeFiles/create_client.dir/src/create_client.cpp.o\n'}
+[30.148431] (action_demo_cpp) StdoutLine: {'line': b'[ 75%] Built target action_demo_cpp__py\n'}
+[30.165127] (action_demo_cpp) StdoutLine: {'line': b'[ 80%] Built target action_demo_cpp__rosidl_generator_py\n'}
+[30.180866] (action_demo_cpp) StdoutLine: {'line': b'[ 86%] Built target action_demo_cpp__rosidl_typesupport_introspection_c__pyext\n'}
+[30.183365] (action_demo_cpp) StdoutLine: {'line': b'[ 91%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_c__pyext\n'}
+[30.183484] (-) TimerEvent: {}
+[30.183505] (action_demo_cpp) StdoutLine: {'line': b'[ 97%] Built target action_demo_cpp__rosidl_typesupport_c__pyext\n'}
+[30.272125] (action_demo_cpp) StdoutLine: {'line': b'running egg_info\n'}
+[30.272559] (action_demo_cpp) StdoutLine: {'line': b'writing action_demo_cpp.egg-info/PKG-INFO\n'}
+[30.272694] (action_demo_cpp) StdoutLine: {'line': b'writing dependency_links to action_demo_cpp.egg-info/dependency_links.txt\n'}
+[30.272730] (action_demo_cpp) StdoutLine: {'line': b'writing top-level names to action_demo_cpp.egg-info/top_level.txt\n'}
+[30.274153] (action_demo_cpp) StdoutLine: {'line': b"reading manifest file 'action_demo_cpp.egg-info/SOURCES.txt'\n"}
+[30.274513] (action_demo_cpp) StdoutLine: {'line': b"writing manifest file 'action_demo_cpp.egg-info/SOURCES.txt'\n"}
+[30.283624] (-) TimerEvent: {}
+[30.292995] (action_demo_cpp) StdoutLine: {'line': b'[ 97%] Built target ament_cmake_python_build_action_demo_cpp_egg\n'}
+[30.383766] (-) TimerEvent: {}
+[30.484019] (-) TimerEvent: {}
+[30.584218] (-) TimerEvent: {}
+[30.684445] (-) TimerEvent: {}
+[30.784633] (-) TimerEvent: {}
+[30.884848] (-) TimerEvent: {}
+[30.985061] (-) TimerEvent: {}
+[31.085318] (-) TimerEvent: {}
+[31.185539] (-) TimerEvent: {}
+[31.285740] (-) TimerEvent: {}
+[31.385951] (-) TimerEvent: {}
+[31.486153] (-) TimerEvent: {}
+[31.586370] (-) TimerEvent: {}
+[31.686631] (-) TimerEvent: {}
+[31.786842] (-) TimerEvent: {}
+[31.887056] (-) TimerEvent: {}
+[31.987244] (-) TimerEvent: {}
+[32.087509] (-) TimerEvent: {}
+[32.187718] (-) TimerEvent: {}
+[32.287910] (-) TimerEvent: {}
+[32.388114] (-) TimerEvent: {}
+[32.488323] (-) TimerEvent: {}
+[32.588608] (-) TimerEvent: {}
+[32.688845] (-) TimerEvent: {}
+[32.784137] (action_demo_cpp) StdoutLine: {'line': b'[100%] Linking CXX executable create_client\n'}
+[32.788940] (-) TimerEvent: {}
+[32.889117] (-) TimerEvent: {}
+[32.909995] (action_demo_cpp) StdoutLine: {'line': b'[100%] Built target create_client\n'}
+[32.917116] (action_demo_cpp) CommandEnded: {'returncode': 0}
+[32.917964] (action_demo_cpp) JobProgress: {'identifier': 'action_demo_cpp', 'progress': 'install'}
+[32.923671] (action_demo_cpp) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp'], 'cwd': '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp', 'env': OrderedDict([('CODEX_TECTONIC_PATH', '/usr/lib/chatgpt/resources/tectonic/tectonic'), ('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CODEX_SAGE_BACKFILL_TRACKER_TAB_REUSE', '1'), ('CODEX_CI', '1'), ('LANGUAGE', 'zh_CN:zh:en_US:en'), ('USER', 'man_sui'), ('LC_TIME', 'zh_CN.UTF-8'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'Codex Desktop'), ('CODEX_SHELL', '1'), ('XDG_SESSION_TYPE', 'x11'), ('LOG_FORMAT', 'json'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('CODEX_CLI_PATH', '/usr/lib/chatgpt/resources/codex'), ('HOME', '/home/man_sui'), ('CHROME_DESKTOP', 'chatgpt.desktop'), ('CONDA_SHLVL', '0'), ('DISABLE_AUTO_UPDATE', 'true'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/chatgpt.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('PAGER', 'cat'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('MANAGERPID', '1778'), ('CODEX_APP_TOOLS_PIPE_PATH', '/tmp/codex-app-tools/0e7dc907-8b01-4ac4-8a4a-d9f6a3b775ee.sock'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2202'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('_CE_M', ''), ('_CONDA_ROOT', '/home/man_sui/miniconda3'), ('CODEX_MCP_NODE_PATH', '/usr/lib/chatgpt/resources/cua_node/bin/node'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '8708'), ('IM_CONFIG_PHASE', '1'), ('CODEX_PERMISSION_PROFILE', ':workspace'), ('CODEX_TOOL_CALL_ID', 'call_z8OdwA7repl84LYX1tk3XsiW'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'fcitx'), ('ZSH_TMUX_AUTOSTARTED', 'true'), ('LOGNAME', 'man_sui'), ('JOURNAL_STREAM', '8:22082'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('CODEX_APPLY_PATCH_PRESERVE_LINE_ENDINGS', '1'), ('RUST_LOG', 'warn'), ('USERNAME', 'man_sui'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('FC_FONTATIONS', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/home/man_sui/.local/bin:/home/man_sui/.local/bin:/home/man_sui/.codex/tmp/arg0-linux/codex-arg04lP64d:/home/man_sui/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override:/home/man_sui/.local/bin:/home/man_sui/miniconda3/condabin:/opt/ros/humble/bin:/home/man_sui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/man_sui/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/fallback:/usr/lib/chatgpt/resources'), ('SESSION_MANAGER', 'local/Legion-Y7000P-IRX10:@/tmp/.ICE-unix/2142,unix/Legion-Y7000P-IRX10:/tmp/.ICE-unix/2142'), ('CODEX_VERSION', '0.163.0-alpha.10.2'), ('CODEX_SESSION_ID', '01a1baed-655f-76d3-9d7c-b2cc69da7eb2'), ('INVOCATION_ID', '47d0d70f7d6348d5b3dd2b1b8310b3eb'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'C.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=fcitx'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', ''), ('BROWSER_USE_ACCESS_VERIFYING_IDENTITY', 'MCowBQYDK2VwAyEAbDWA0CFOMIgP+wXhDIIFkOU2qo4bAll1jrumUe2pPrU='), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/man_sui/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CODEX_THREAD_ID', '01a1baed-655f-76d3-9d7c-b2cc69da7eb2'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('_CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('CODEX_TASK_WORKSPACE_VERIFYING_IDENTITY', 'MCowBQYDK2VwAyEAbDWA0CFOMIgP+wXhDIIFkOU2qo4bAll1jrumUe2pPrU='), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp'), ('LC_ALL', 'C.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('ZSH_TMUX_AUTOSTART', 'false'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[32.931173] (action_demo_cpp) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[32.931372] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/rosidl_interfaces/action_demo_cpp\n'}
+[32.931522] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.931658] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg\n'}
+[32.931786] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_generator_c__visibility_control.h\n'}
+[32.931953] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.932046] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.932196] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.h\n'}
+[32.932291] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__struct.h\n'}
+[32.932383] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__functions.h\n'}
+[32.932502] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__functions.c\n'}
+[32.932597] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/own_action.h\n'}
+[32.932669] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/library_path.sh\n'}
+[32.932798] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/library_path.dsv\n'}
+[32.932905] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_generator_c.so\n'}
+[32.933005] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.933110] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg\n'}
+[32.933285] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[32.933377] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.933447] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.933504] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_fastrtps_c.h\n'}
+[32.933561] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_fastrtps_c.so\n'}
+[32.933617] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.933675] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg\n'}
+[32.933732] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_generator_cpp__visibility_control.hpp\n'}
+[32.933804] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.933862] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/own_action.hpp\n'}
+[32.933919] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.933976] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__struct.hpp\n'}
+[32.934035] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__builder.hpp\n'}
+[32.934092] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.hpp\n'}
+[32.934149] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__traits.hpp\n'}
+[32.934205] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.934262] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg\n'}
+[32.934319] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[32.934376] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.934433] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.934489] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[32.934550] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/dds_fastrtps\n'}
+[32.934609] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_fastrtps_cpp.so\n'}
+[32.934666] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.934722] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg\n'}
+[32.934785] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[32.934846] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.934904] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.934966] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_introspection_c.h\n'}
+[32.935026] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.c\n'}
+[32.935091] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_introspection_c.so\n'}
+[32.935149] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_c.so\n'}
+[32.935206] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp\n'}
+[32.935266] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action\n'}
+[32.935323] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail\n'}
+[32.935381] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.cpp\n'}
+[32.935439] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_introspection_cpp.hpp\n'}
+[32.935497] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_introspection_cpp.so\n'}
+[32.935553] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_cpp.so\n'}
+[32.935610] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/pythonpath.sh\n'}
+[32.935667] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/pythonpath.dsv\n'}
+[32.935724] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info\n'}
+[32.935788] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/PKG-INFO\n'}
+[32.935848] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[32.935906] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/top_level.txt\n'}
+[32.935965] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[32.936022] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp\n'}
+[32.936082] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.936145] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/__init__.py\n'}
+[32.936203] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.936262] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[32.936319] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_c.c\n'}
+[32.936376] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action\n'}
+[32.936433] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/__init__.py\n'}
+[32.936490] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/_own_action.py\n'}
+[32.936547] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/_own_action_s.c\n'}
+[32.936603] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[32.936674] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.936732] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/libaction_demo_cpp__rosidl_generator_py.so\n'}
+[32.956987] (action_demo_cpp) StdoutLine: {'line': b"Listing '/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp'...\n"}
+[32.957172] (action_demo_cpp) StdoutLine: {'line': b"Listing '/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action'...\n"}
+[32.959796] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.960232] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.960477] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[32.960553] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_generator_py.so\n'}
+[32.960614] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/rust_packages/action_demo_cpp\n'}
+[32.960683] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust\n'}
+[32.960739] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/build.rs\n'}
+[32.960808] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src\n'}
+[32.960868] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/lib.rs\n'}
+[32.960928] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action\n'}
+[32.960993] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action/rmw.rs\n'}
+[32.961052] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action.rs\n'}
+[32.961110] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/Cargo.toml\n'}
+[32.961170] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/action/OwnAction.idl\n'}
+[32.961228] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/action/OwnAction.action\n'}
+[32.961285] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_client\n'}
+[32.961484] (action_demo_cpp) StdoutLine: {'line': b'-- Set runtime path of "/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_client" to ""\n'}
+[32.961627] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_service\n'}
+[32.961820] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/package_run_dependencies/action_demo_cpp\n'}
+[32.961957] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/parent_prefix_path/action_demo_cpp\n'}
+[32.962063] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/ament_prefix_path.sh\n'}
+[32.962211] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/ament_prefix_path.dsv\n'}
+[32.962376] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/path.sh\n'}
+[32.962558] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/path.dsv\n'}
+[32.962682] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.bash\n'}
+[32.962759] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.sh\n'}
+[32.962824] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.zsh\n'}
+[32.962900] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.dsv\n'}
+[32.962973] (action_demo_cpp) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/package.dsv\n'}
+[32.963034] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/packages/action_demo_cpp\n'}
+[32.963092] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cExport.cmake\n'}
+[32.963151] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cExport-noconfig.cmake\n'}
+[32.963210] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[32.963269] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[32.963328] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cppExport.cmake\n'}
+[32.963388] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[32.963448] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[32.963508] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cExport.cmake\n'}
+[32.963573] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[32.963744] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cExport.cmake\n'}
+[32.964206] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[32.964389] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[32.964473] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[32.964612] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cppExport.cmake\n'}
+[32.964718] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[32.964958] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_pyExport.cmake\n'}
+[32.965072] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_pyExport-noconfig.cmake\n'}
+[32.965185] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake-extras.cmake\n'}
+[32.965292] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[32.965400] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[32.965600] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[32.965681] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[32.965791] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[32.966037] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[32.966120] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_aggregate_target-extras.cmake\n'}
+[32.966344] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cppConfig.cmake\n'}
+[32.966830] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cppConfig-version.cmake\n'}
+[32.966957] (action_demo_cpp) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/package.xml\n'}
+[32.967066] (action_demo_cpp) CommandEnded: {'returncode': 0}
+[32.981521] (action_demo_cpp) JobEnded: {'identifier': 'action_demo_cpp', 'rc': 0}
+[32.981861] (-) EventReactorShutdown: {}

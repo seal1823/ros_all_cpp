@@ -1,0 +1,32 @@
+[0.021s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point -- -j24 -l24
+[0.091s] [ 25%] Built target robot_initial_position
+[0.091s] [ 50%] Built target robot_get_tf_position
+[0.091s] [ 75%] Built target robot_send_goal_simple_point
+[0.095s] [100%] Built target robot_send_more_goal_point
+[0.120s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point -- -j24 -l24
+[0.120s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point
+[0.124s] -- Install configuration: ""
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/lib/robot_pose_point/robot_initial_position
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/lib/robot_pose_point/robot_get_tf_position
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/lib/robot_pose_point/robot_send_goal_simple_point
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/lib/robot_pose_point/robot_send_more_goal_point
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/config
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/config/goal_point.yaml
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/launch
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/launch/start_nav2_point.launch.py
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/ament_index/resource_index/package_run_dependencies/robot_pose_point
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/ament_index/resource_index/parent_prefix_path/robot_pose_point
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.sh
+[0.125s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/environment/ament_prefix_path.dsv
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/environment/path.sh
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/environment/path.dsv
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/local_setup.bash
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/local_setup.sh
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/local_setup.zsh
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/local_setup.dsv
+[0.126s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/package.dsv
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/ament_index/resource_index/packages/robot_pose_point
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig.cmake
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/cmake/robot_pose_pointConfig-version.cmake
+[0.126s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/robot_pose_point/share/robot_pose_point/package.xml
+[0.142s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/robot_pose_point

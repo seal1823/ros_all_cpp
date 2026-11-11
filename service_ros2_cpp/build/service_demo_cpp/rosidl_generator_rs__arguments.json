@@ -1,0 +1,28 @@
+{
+  "package_name": "service_demo_cpp",
+  "output_dir": "/home/man_sui/ros_all_cpp/service_ros2_cpp/build/service_demo_cpp/rosidl_generator_rs/service_demo_cpp",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource",
+  "idl_tuples": [
+    "/home/man_sui/ros_all_cpp/service_ros2_cpp/build/service_demo_cpp/rosidl_adapter/service_demo_cpp:srv/OwnTur.idl"
+  ],
+  "ros_interface_files": [
+    "/home/man_sui/ros_all_cpp/service_ros2_cpp/build/service_demo_cpp/rosidl_adapter/service_demo_cpp/srv/OwnTur.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../../../lib/rosidl_generator_rs/rosidl_generator_rs",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_rs/__init__.py",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/action.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/action/rmw.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/msg.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/msg/rmw.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/srv.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/srv/rmw.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/templates/msg_idiomatic.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/templates/msg_rmw.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/templates/srv_idiomatic.rs.em",
+    "/opt/ros/humble/share/rosidl_generator_rs/cmake/../resource/templates/srv_rmw.rs.em",
+    "/home/man_sui/ros_all_cpp/service_ros2_cpp/build/service_demo_cpp/rosidl_adapter/service_demo_cpp/srv/OwnTur.idl",
+    "/home/man_sui/ros_all_cpp/service_ros2_cpp/build/service_demo_cpp/rosidl_adapter/service_demo_cpp/srv/OwnTur.idl"
+  ],
+  "package_version": "0.0.0"
+}

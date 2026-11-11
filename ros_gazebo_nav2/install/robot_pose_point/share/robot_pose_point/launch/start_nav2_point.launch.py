@@ -1,0 +1,1 @@
+/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/launch/start_nav2_point.launch.py

@@ -1,0 +1,6 @@
+{
+  "package_name": "service_demo_cpp",
+  "non_idl_tuples": [
+    "/home/man_sui/ros_all_cpp/service_ros2_cpp/src/service_demo_cpp:srv/OwnTur.srv"
+  ]
+}

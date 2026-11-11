@@ -1,0 +1,27 @@
+插件指的就是在src/motion_control_system/include/motion_control_system/spin_motion_controller.hpp中创建的SpinMotionController，但是插件的主体实在src/motion_control_system/src/spin_motion_controller.cpp这里面
+xml文件中的library path 指的就是动态链接库的名字跟CMakeList.txt文件当中add_library的名称必须保持一致
+learn_pluginlib/
+├── src/
+│   └── motion_control_system/          ← 功能包根目录    在package.xml和CMakeList.txt中都有其身影
+│       ├── include/
+│       │   └── motion_control_system/  ← 头文件目录    include 的头文件就是他
+│       │       ├── motion_control_interface.hpp
+│       │       └── spin_motion_controller.hpp
+│       ├── src/
+│       │   ├── spin_motion_controller.cpp
+│       │   └── test_plugin.cpp
+│       ├── CMakeLists.txt
+│       ├── package.xml
+│       └── spin_motion_pluginlib.xml
+├── build/  (自动生成)
+├── install/  (自动生成)
+└── log/  (自动生成)
+---
+自定义规划器
+位置 geometry_msgs/msg/PoseStamped
+路径 nav_msgs/msg/Path
+栅格图 nav_msgs/msg/OccupancyGrid
+在nav_msgs/msg/OccupancyGrid中的int8[] data中，是将一个2维地图，从左往右，从上到下拉成一个一维数组，然后需要进行坐标的转换，才能知道当前位置的阈值
+row_index = (y - info.origin.y) / y.resolution  这里的resolution指的是分辨率，默认的是一个像素点0.05m
+col_index = (x - info.origin.x) / x.resolution
+occupied_status = datd[row_index * map_width + col_index]  这个是固定的公式 

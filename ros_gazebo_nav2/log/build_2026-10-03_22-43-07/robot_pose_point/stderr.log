@@ -1,0 +1,4 @@
+/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_goal_simple_point.cpp: In lambda function:
+/home/man_sui/ros_all_cpp/ros_gazebo_nav2/src/robot_pose_point/src/robot_send_goal_simple_point.cpp:48:53: warning: unused parameter ‘goal_handle’ [-Wunused-parameter]
+   48 |                 GoalHandleNavigateToPose::SharedPtr goal_handle,
+      |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~

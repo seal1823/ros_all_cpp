@@ -1,0 +1,216 @@
+[0.008s] Invoking command in '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp -- -j24 -l24
+[0.028s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.123s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[0.143s] -- Found rosidl_generator_c: 3.1.9 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.144s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.148s] -- Found rosidl_generator_cpp: 3.1.9 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.154s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.162s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.182s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.183s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.264s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.298s] -- Found rclcpp_action: 16.0.19 (/opt/ros/humble/share/rclcpp_action/cmake)
+[0.317s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.510s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.749s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.841s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.857s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.872s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.872s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.872s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.928s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.938s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.938s] -- Configured cppcheck include dirs: 
+[0.938s] -- Configured cppcheck exclude dirs and/or files: 
+[0.939s] -- Added test 'lint_cmake' to check CMake code style
+[0.940s] -- Added test 'uncrustify' to check C / C++ code style
+[0.940s] -- Configured uncrustify additional arguments: 
+[0.940s] -- Added test 'xmllint' to check XML markup files
+[0.942s] -- Configuring done
+[0.973s] -- Generating done
+[0.983s] -- Build files have been written to: /home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp
+[1.009s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_generator_c[0m
+[1.018s] [  2%] Built target action_demo_cpp__rs
+[1.018s] [ 11%] Built target action_demo_cpp__rosidl_generator_c
+[1.019s] [ 13%] Built target action_demo_cpp__cpp
+[1.027s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_introspection_c[0m
+[1.027s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_introspection_cpp[0m
+[1.028s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_fastrtps_cpp[0m
+[1.028s] [ 13%] Built target ament_cmake_python_copy_action_demo_cpp
+[1.028s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_fastrtps_c[0m
+[1.030s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_cpp[0m
+[1.030s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_c[0m
+[1.044s] [ 25%] Built target action_demo_cpp__rosidl_typesupport_introspection_cpp
+[1.044s] [ 30%] Built target action_demo_cpp__rosidl_typesupport_introspection_c
+[1.046s] [ 38%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_c
+[1.046s] [ 47%] Built target action_demo_cpp__rosidl_typesupport_cpp
+[1.047s] [ 55%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_cpp
+[1.048s] [ 63%] Built target action_demo_cpp__rosidl_typesupport_c
+[1.061s] [ 66%] [32mBuilding CXX object CMakeFiles/create_service.dir/src/create_service.cpp.o[0m
+[1.062s] [ 69%] [32mBuilding CXX object CMakeFiles/create_client.dir/src/create_client.cpp.o[0m
+[1.065s] [ 69%] Built target action_demo_cpp
+[1.080s] [ 72%] Built target action_demo_cpp__py
+[1.088s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_generator_py[0m
+[1.098s] [ 77%] Built target action_demo_cpp__rosidl_generator_py
+[1.106s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_c__pyext[0m
+[1.107s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_introspection_c__pyext[0m
+[1.107s] [35m[1mConsolidate compiler generated dependencies of target action_demo_cpp__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.118s] [ 83%] Built target action_demo_cpp__rosidl_typesupport_c__pyext
+[1.119s] [ 94%] Built target action_demo_cpp__rosidl_typesupport_introspection_c__pyext
+[1.119s] [ 94%] Built target action_demo_cpp__rosidl_typesupport_fastrtps_c__pyext
+[1.194s] running egg_info
+[1.194s] writing action_demo_cpp.egg-info/PKG-INFO
+[1.194s] writing dependency_links to action_demo_cpp.egg-info/dependency_links.txt
+[1.194s] writing top-level names to action_demo_cpp.egg-info/top_level.txt
+[1.196s] reading manifest file 'action_demo_cpp.egg-info/SOURCES.txt'
+[1.196s] writing manifest file 'action_demo_cpp.egg-info/SOURCES.txt'
+[1.216s] [ 94%] Built target ament_cmake_python_build_action_demo_cpp_egg
+[2.642s] [01m[K/home/man_sui/ros_all_cpp/ros2_action_cpp/src/action_demo_cpp/src/create_service.cpp:[m[K In member function ‘[01m[Krclcpp_action::GoalResponse Service::handle_goal(const GoalUUID&, std::shared_ptr<const action_demo_cpp::action::OwnAction_Goal_<std::allocator<void> > >)[m[K’:
+[2.642s] [01m[K/home/man_sui/ros_all_cpp/ros2_action_cpp/src/action_demo_cpp/src/create_service.cpp:26:41:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kuuid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.642s]    26 |         [01;35m[Kconst rclcpp_action::GoalUUID & uuid[m[K,    // rclcpp_action::GoalUUID这是 ROS 2 中定义的一个类型，用来表示 Goal 的唯一 ID，每次客户端发送一个新的 Goal，ROS 2 都会为它分配一个 UUID，用于区分不同的任务请求
+[2.642s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[3.407s] [ 97%] [32m[1mLinking CXX executable create_service[0m
+[3.520s] [ 97%] Built target create_service
+[3.650s] [100%] [32m[1mLinking CXX executable create_client[0m
+[3.760s] [100%] Built target create_client
+[3.771s] Invoked command in '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp -- -j24 -l24
+[3.779s] Invoking command in '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp
+[3.786s] -- Install configuration: ""
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/rosidl_interfaces/action_demo_cpp
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_generator_c__visibility_control.h
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.h
+[3.786s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__struct.h
+[3.787s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__functions.h
+[3.787s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__functions.c
+[3.787s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/own_action.h
+[3.787s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/library_path.sh
+[3.787s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/library_path.dsv
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_generator_c.so
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.788s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_fastrtps_c.h
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_fastrtps_c.so
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_generator_cpp__visibility_control.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/own_action.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__struct.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__builder.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__traits.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_fastrtps_cpp.hpp
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/dds_fastrtps
+[3.789s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_fastrtps_cpp.so
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_introspection_c.h
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.c
+[3.790s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_introspection_c.so
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_c.so
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__type_support.cpp
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/include/action_demo_cpp/action_demo_cpp/action/detail/own_action__rosidl_typesupport_introspection_cpp.hpp
+[3.791s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_introspection_cpp.so
+[3.792s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_typesupport_cpp.so
+[3.792s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/pythonpath.sh
+[3.792s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/pythonpath.dsv
+[3.792s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info
+[3.792s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/PKG-INFO
+[3.792s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/dependency_links.txt
+[3.792s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/top_level.txt
+[3.792s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp-0.0.0-py3.10.egg-info/SOURCES.txt
+[3.792s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp
+[3.792s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.793s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/__init__.py
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_introspection_c.c
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_c.c
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/__init__.py
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/_own_action.py
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action/_own_action_s.c
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/_action_demo_cpp_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.793s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/libaction_demo_cpp__rosidl_generator_py.so
+[3.815s] Listing '/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp'...
+[3.815s] Compiling '/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/__init__.py'...
+[3.815s] Listing '/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action'...
+[3.819s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.819s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/local/lib/python3.10/dist-packages/action_demo_cpp/action_demo_cpp_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/libaction_demo_cpp__rosidl_generator_py.so
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/rust_packages/action_demo_cpp
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/build.rs
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/lib.rs
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action/rmw.rs
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/src/action.rs
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/rust/Cargo.toml
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/action/OwnAction.idl
+[3.820s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/action/OwnAction.action
+[3.820s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_client
+[3.821s] -- Set runtime path of "/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_client" to ""
+[3.821s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_service
+[3.821s] -- Set runtime path of "/home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/lib/action_demo_cpp/create_service" to ""
+[3.821s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/package_run_dependencies/action_demo_cpp
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/parent_prefix_path/action_demo_cpp
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/ament_prefix_path.sh
+[3.822s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/ament_prefix_path.dsv
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/path.sh
+[3.822s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/environment/path.dsv
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.bash
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.sh
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.zsh
+[3.822s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/local_setup.dsv
+[3.822s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/package.dsv
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/ament_index/resource_index/packages/action_demo_cpp
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cExport.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cExport-noconfig.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cExport.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_cppExport.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.822s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cExport.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cExport.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cppExport.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cppExport.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cpp__rosidl_typesupport_cppExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_pyExport.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/export_action_demo_cpp__rosidl_generator_pyExport-noconfig.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/ament_cmake_export_targets-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.823s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[3.824s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cppConfig.cmake
+[3.824s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/cmake/action_demo_cppConfig-version.cmake
+[3.824s] -- Installing: /home/man_sui/ros_all_cpp/ros2_action_cpp/install/action_demo_cpp/share/action_demo_cpp/package.xml
+[3.826s] Invoked command in '/home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_action_cpp/build/action_demo_cpp

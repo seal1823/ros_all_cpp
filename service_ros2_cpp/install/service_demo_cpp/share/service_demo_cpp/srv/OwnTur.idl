@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from service_demo_cpp/srv/OwnTur.srv
+// generated code does not contain a copyright notice
+
+
+module service_demo_cpp {
+  module srv {
+    struct OwnTur_Request {
+      @verbatim (language="comment", text=
+        "不能输入滚木")
+      int8 l_num;
+    };
+    module OwnTur_Response_Constants {
+      @verbatim (language="comment", text=
+        "成功返回值")
+      const int8 SUCCESS = 1;
+      @verbatim (language="comment", text=
+        "失败返回值")
+      const int8 FAIL = 0;
+    };
+    struct OwnTur_Response {
+      @verbatim (language="comment", text=
+        "处理结果")
+      int8 result;
+    };
+  };
+};

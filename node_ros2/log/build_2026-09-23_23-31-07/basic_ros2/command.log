@@ -1,0 +1,2 @@
+Invoking command in '/home/man_sui/ros_all_cpp/node_ros2/build/basic_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/man_sui/ros_all_cpp/node_ros2/build/basic_ros2 -- -j24 -l24
+Invoked command in '/home/man_sui/ros_all_cpp/node_ros2/build/basic_ros2' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/man_sui/ros_all_cpp/node_ros2/build/basic_ros2 -- -j24 -l24

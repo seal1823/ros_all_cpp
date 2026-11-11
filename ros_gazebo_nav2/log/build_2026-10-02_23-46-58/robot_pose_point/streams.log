@@ -1,0 +1,8 @@
+[0.016s] Invoking command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24
+[0.081s] [ 50%] Building CXX object CMakeFiles/robot_initial_position.dir/src/robot_initial_position.cpp.o
+[3.061s] *** stack smashing detected ***: terminated
+[3.068s] [100%] Linking CXX executable robot_initial_position
+[4.180s] gmake[2]: *** [CMakeFiles/robot_initial_position.dir/build.make:166: robot_initial_position] 已中止 (核心已转储)
+[4.180s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/robot_initial_position.dir/all] 错误 2
+[4.180s] gmake: *** [Makefile:146：all] 错误 2
+[4.183s] Invoked command in '/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point -- -j24 -l24

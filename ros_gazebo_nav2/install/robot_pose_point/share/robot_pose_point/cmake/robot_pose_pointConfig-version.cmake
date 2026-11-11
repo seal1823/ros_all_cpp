@@ -1,0 +1,1 @@
+/home/man_sui/ros_all_cpp/ros_gazebo_nav2/build/robot_pose_point/ament_cmake_core/robot_pose_pointConfig-version.cmake

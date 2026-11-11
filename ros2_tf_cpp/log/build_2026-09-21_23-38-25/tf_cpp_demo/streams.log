@@ -1,0 +1,30 @@
+[0.010s] Invoking command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo -- -j24 -l24
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target tf_listener[0m
+[0.059s] [ 33%] Built target tf2_demo_cpp
+[0.060s] [ 66%] Built target dynamic_transform
+[0.064s] [ 83%] [32mBuilding CXX object CMakeFiles/tf_listener.dir/src/tf_listener.cpp.o[0m
+[5.924s] [100%] [32m[1mLinking CXX executable tf_listener[0m
+[6.248s] [100%] Built target tf_listener
+[6.258s] Invoked command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo -- -j24 -l24
+[6.268s] Invoking command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo
+[6.278s] -- Install configuration: ""
+[6.278s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/lib/tf_cpp_demo/tf2_demo_cpp
+[6.278s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/lib/tf_cpp_demo/dynamic_transform
+[6.278s] -- Installing: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/lib/tf_cpp_demo/tf_listener
+[6.282s] -- Set runtime path of "/home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/lib/tf_cpp_demo/tf_listener" to ""
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/ament_index/resource_index/package_run_dependencies/tf_cpp_demo
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/ament_index/resource_index/parent_prefix_path/tf_cpp_demo
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/environment/ament_prefix_path.sh
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/environment/ament_prefix_path.dsv
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/environment/path.sh
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/environment/path.dsv
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/local_setup.bash
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/local_setup.sh
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/local_setup.zsh
+[6.282s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/local_setup.dsv
+[6.282s] -- Installing: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/package.dsv
+[6.283s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/ament_index/resource_index/packages/tf_cpp_demo
+[6.283s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/cmake/tf_cpp_demoConfig.cmake
+[6.283s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/cmake/tf_cpp_demoConfig-version.cmake
+[6.283s] -- Up-to-date: /home/man_sui/ros_all_cpp/ros2_tf_cpp/install/tf_cpp_demo/share/tf_cpp_demo/package.xml
+[6.284s] Invoked command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo

@@ -1,0 +1,9 @@
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/motion_control_system/src/test_plugin.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/motion_control_system/src/test_plugin.cpp:17:60:[m[K [01;35m[Kwarning: [m[K‘[01m[KT* pluginlib::ClassLoader<T>::createClassInstance(const string&, bool) [with T = motion_control_system::MotionController; std::string = std::__cxx11::basic_string<char>][m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+   17 |     auto controller = [01;35m[Kcontroller_loader.createClassInstance(controller_name)[m[K;
+      |                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/humble/include/pluginlib/pluginlib/class_loader.hpp:334[m[K,
+                 from [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/motion_control_system/src/test_plugin.cpp:2[m[K:
+[01m[K/opt/ros/humble/include/pluginlib/pluginlib/class_loader_imp.hpp:117:5:[m[K [01;36m[Knote: [m[Kdeclared here
+  117 | T * [01;36m[KClassLoader<T>[m[K::createClassInstance(const std::string & lookup_name, bool auto_load)
+      |     [01;36m[K^~~~~~~~~~~~~~[m[K

@@ -1,0 +1,11 @@
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:[m[K In member function ‘[01m[Kvirtual geometry_msgs::msg::TwistStamped nav2_custom_controller::CustomController::computeVelocityCommands(const PoseStamped&, const Twist&, nav2_core::GoalChecker*)[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:44:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kvelocity[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   44 |         [01;35m[Kconst geometry_msgs::msg::Twist & velocity[m[K,
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:45:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kgoal_checker[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   45 |         [01;35m[Knav2_core::GoalChecker * goal_checker[m[K)
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:[m[K In member function ‘[01m[Kgeometry_msgs::msg::PoseStamped nav2_custom_controller::CustomController::GetNearestTargetPoint(const PoseStamped&)[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:95:22:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<geometry_msgs::msg::PoseStamped_<std::allocator<void> >, std::allocator<geometry_msgs::msg::PoseStamped_<std::allocator<void> > > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+   95 |         for(int i=1;[01;35m[Ki<global_path_.poses.size()[m[K;i++)
+      |                     [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K

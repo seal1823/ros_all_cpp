@@ -1,0 +1,7 @@
+uint32 l_num        #request
+---
+uint32 SUCCESS = 1  #成功值
+uint32 FALSE = 0    #失败值
+uint32 result       #处理结果
+---
+uint32 l_all_num       #feedback

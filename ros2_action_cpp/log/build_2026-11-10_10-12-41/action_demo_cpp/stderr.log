@@ -1,0 +1,4 @@
+[01m[K/home/man_sui/ros_all_cpp/ros2_action_cpp/src/action_demo_cpp/src/create_service.cpp:[m[K In member function ‘[01m[Krclcpp_action::GoalResponse Service::handle_goal(const GoalUUID&, std::shared_ptr<const action_demo_cpp::action::OwnAction_Goal_<std::allocator<void> > >)[m[K’:
+[01m[K/home/man_sui/ros_all_cpp/ros2_action_cpp/src/action_demo_cpp/src/create_service.cpp:26:41:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kuuid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   26 |         [01;35m[Kconst rclcpp_action::GoalUUID & uuid[m[K,    // rclcpp_action::GoalUUID这是 ROS 2 中定义的一个类型，用来表示 Goal 的唯一 ID，每次客户端发送一个新的 Goal，ROS 2 都会为它分配一个 UUID，用于区分不同的任务请求
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~[m[K

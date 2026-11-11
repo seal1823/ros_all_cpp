@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d8af2eee1f0245c4f7a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nav2_other_planner",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "nav2_other_planner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nav2_other_planner-a8ee1f3861cbd7b78d6e.json",
+					"name" : "nav2_other_planner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nav2_other_planner_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nav2_other_planner_uninstall-4d08bca16d6e7dbc475d.json",
+					"name" : "nav2_other_planner_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f4a454a9252ed7cae89f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner",
+		"source" : "/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_other_planner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

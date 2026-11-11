@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d4d11a3c48cab14dcbd1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "motion_control_system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_control_system_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_control_system_uninstall-ef1b25dc9fd30929eef0.json",
+					"name" : "motion_control_system_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spin_motion_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spin_motion_controller-9019bfb3306f96f9736b.json",
+					"name" : "spin_motion_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_plugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_plugin-775ebd329ae5bf913141.json",
+					"name" : "test_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-585c7ee4398479858f9b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/man_sui/ros_all_cpp/learn_pluginlib/build/motion_control_system",
+		"source" : "/home/man_sui/ros_all_cpp/learn_pluginlib/src/motion_control_system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

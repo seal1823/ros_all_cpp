@@ -1,0 +1,5 @@
+<library path='nav2_other_planner'>
+    <class name="nav2_other_planner/Dijkstra_Planner" type="DijkstraPlanner::Dijkstra_Planner" base_class_type="nav2_core::GlobalPlanner">
+        <description>自定义的Dijkstra导航算法接口控制器</description>
+    </class>
+</library>

@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from create_own_msg/msg/OwnMsg.msg
+// generated code does not contain a copyright notice
+
+
+module create_own_msg {
+  module msg {
+    struct OwnMsg {
+      @verbatim (language="comment", text=
+        "输入节点名")
+      string node_name;
+
+      @verbatim (language="comment", text=
+        "用户名称呼")
+      string user_name;
+
+      @verbatim (language="comment", text=
+        "请输入文本")
+      int8 num_of_l;
+    };
+  };
+};

@@ -1,0 +1,10 @@
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/uninstall.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/basic_ros2_uninstall.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/cpp_node.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/test.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/edit_cache.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/rebuild_cache.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/list_install_components.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/install.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/install/local.dir
+/home/man_sui/ros_all_cpp/node_ros2/basic_ros2/build/basic_ros2/CMakeFiles/install/strip.dir

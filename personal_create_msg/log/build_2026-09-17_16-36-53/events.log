@@ -1,0 +1,224 @@
+[0.000000] (-) TimerEvent: {}
+[0.000425] (create_own_msg) JobQueued: {'identifier': 'create_own_msg', 'dependencies': OrderedDict()}
+[0.000500] (create_own_msg) JobStarted: {'identifier': 'create_own_msg'}
+[0.005738] (create_own_msg) JobProgress: {'identifier': 'create_own_msg', 'progress': 'cmake'}
+[0.006926] (create_own_msg) JobProgress: {'identifier': 'create_own_msg', 'progress': 'build'}
+[0.006974] (create_own_msg) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg', '--', '-j24', '-l24'], 'cwd': '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('LANGUAGE', 'zh_CN:zh:en_US:en'), ('USER', 'man_sui'), ('LC_TIME', 'zh_CN.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/man_sui'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('CONDA_SHLVL', '1'), ('OLDPWD', '/home/man_sui/ros_all_cpp'), ('TERM_PROGRAM_VERSION', '1.86.2'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('MANAGERPID', '1784'), ('SYSTEMD_EXEC_PID', '2211'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('_CONDA_ROOT', '/home/man_sui/miniconda3'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '3228'), ('IM_CONFIG_PHASE', '1'), ('COLCON_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'fcitx'), ('LOGNAME', 'man_sui'), ('JOURNAL_STREAM', '8:11648'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'man_sui'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/home/man_sui/.local/bin:/home/man_sui/miniconda3/bin:/home/man_sui/miniconda3/condabin:/opt/ros/humble/bin:/home/man_sui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/Legion-Y7000P-IRX10:@/tmp/.ICE-unix/2149,unix/Legion-Y7000P-IRX10:/tmp/.ICE-unix/2149'), ('INVOCATION_ID', '95414b94983c49989652e43c5c1c5056'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'zh_CN.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=fcitx'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-0944478c1a.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/man_sui/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('_CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('CONDA_PREFIX', '/home/man_sui/miniconda3'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg:/opt/ros/humble')]), 'shell': False}
+[0.057834] (create_own_msg) StdoutLine: {'line': b'[  8%] Built target create_own_msg__rosidl_generator_c\n'}
+[0.058077] (create_own_msg) StdoutLine: {'line': b'[ 13%] Built target create_own_msg__cpp\n'}
+[0.058166] (create_own_msg) StdoutLine: {'line': b'[ 13%] Built target create_own_msg__rs\n'}
+[0.062918] (create_own_msg) StdoutLine: {'line': b'[ 13%] Built target ament_cmake_python_copy_create_own_msg\n'}
+[0.073220] (create_own_msg) StdoutLine: {'line': b'[ 22%] Built target create_own_msg__rosidl_typesupport_fastrtps_cpp\n'}
+[0.074052] (create_own_msg) StdoutLine: {'line': b'[ 30%] Built target create_own_msg__rosidl_typesupport_fastrtps_c\n'}
+[0.074781] (create_own_msg) StdoutLine: {'line': b'[ 38%] Built target create_own_msg__rosidl_typesupport_c\n'}
+[0.075428] (create_own_msg) StdoutLine: {'line': b'[ 47%] Built target create_own_msg__rosidl_typesupport_introspection_cpp\n'}
+[0.075884] (create_own_msg) StdoutLine: {'line': b'[ 55%] Built target create_own_msg__rosidl_typesupport_introspection_c\n'}
+[0.076019] (create_own_msg) StdoutLine: {'line': b'[ 63%] Built target create_own_msg__rosidl_typesupport_cpp\n'}
+[0.090049] (create_own_msg) StdoutLine: {'line': b'[ 63%] Built target create_own_msg\n'}
+[0.096778] (create_own_msg) StdoutLine: {'line': b'[ 69%] Built target use_own_msg_topic\n'}
+[0.097335] (create_own_msg) StdoutLine: {'line': b'[ 72%] \x1b[32mBuilding CXX object CMakeFiles/use_own_msg_sub.dir/src/use_own_msg_sub.cpp.o\x1b[0m\n'}
+[0.099790] (-) TimerEvent: {}
+[0.105458] (create_own_msg) StdoutLine: {'line': b'[ 75%] Built target create_own_msg__py\n'}
+[0.124252] (create_own_msg) StdoutLine: {'line': b'[ 80%] Built target create_own_msg__rosidl_generator_py\n'}
+[0.147550] (create_own_msg) StdoutLine: {'line': b'[ 97%] Built target create_own_msg__rosidl_typesupport_c__pyext\n'}
+[0.147800] (create_own_msg) StdoutLine: {'line': b'[ 97%] Built target create_own_msg__rosidl_typesupport_fastrtps_c__pyext\n'}
+[0.147872] (create_own_msg) StdoutLine: {'line': b'[ 97%] Built target create_own_msg__rosidl_typesupport_introspection_c__pyext\n'}
+[0.199900] (-) TimerEvent: {}
+[0.218581] (create_own_msg) StdoutLine: {'line': b'running egg_info\n'}
+[0.218920] (create_own_msg) StdoutLine: {'line': b'writing create_own_msg.egg-info/PKG-INFO\n'}
+[0.219065] (create_own_msg) StdoutLine: {'line': b'writing dependency_links to create_own_msg.egg-info/dependency_links.txt\n'}
+[0.219256] (create_own_msg) StdoutLine: {'line': b'writing top-level names to create_own_msg.egg-info/top_level.txt\n'}
+[0.220500] (create_own_msg) StdoutLine: {'line': b"reading manifest file 'create_own_msg.egg-info/SOURCES.txt'\n"}
+[0.221503] (create_own_msg) StdoutLine: {'line': b"writing manifest file 'create_own_msg.egg-info/SOURCES.txt'\n"}
+[0.239295] (create_own_msg) StdoutLine: {'line': b'[ 97%] Built target ament_cmake_python_build_create_own_msg_egg\n'}
+[0.300029] (-) TimerEvent: {}
+[0.400379] (-) TimerEvent: {}
+[0.500697] (-) TimerEvent: {}
+[0.600940] (-) TimerEvent: {}
+[0.701246] (-) TimerEvent: {}
+[0.801554] (-) TimerEvent: {}
+[0.901829] (-) TimerEvent: {}
+[1.002107] (-) TimerEvent: {}
+[1.102326] (-) TimerEvent: {}
+[1.202553] (-) TimerEvent: {}
+[1.302811] (-) TimerEvent: {}
+[1.403771] (-) TimerEvent: {}
+[1.504160] (-) TimerEvent: {}
+[1.604431] (-) TimerEvent: {}
+[1.704757] (-) TimerEvent: {}
+[1.805095] (-) TimerEvent: {}
+[1.905348] (-) TimerEvent: {}
+[2.005657] (-) TimerEvent: {}
+[2.106050] (-) TimerEvent: {}
+[2.206336] (-) TimerEvent: {}
+[2.306632] (-) TimerEvent: {}
+[2.406948] (-) TimerEvent: {}
+[2.507366] (-) TimerEvent: {}
+[2.607699] (-) TimerEvent: {}
+[2.708009] (-) TimerEvent: {}
+[2.808334] (-) TimerEvent: {}
+[2.908679] (-) TimerEvent: {}
+[3.009025] (-) TimerEvent: {}
+[3.109319] (-) TimerEvent: {}
+[3.209652] (-) TimerEvent: {}
+[3.309955] (-) TimerEvent: {}
+[3.410293] (-) TimerEvent: {}
+[3.510595] (-) TimerEvent: {}
+[3.610909] (-) TimerEvent: {}
+[3.711146] (-) TimerEvent: {}
+[3.811437] (-) TimerEvent: {}
+[3.911775] (-) TimerEvent: {}
+[4.012063] (-) TimerEvent: {}
+[4.112362] (-) TimerEvent: {}
+[4.212671] (-) TimerEvent: {}
+[4.312953] (-) TimerEvent: {}
+[4.413240] (-) TimerEvent: {}
+[4.513526] (-) TimerEvent: {}
+[4.613800] (-) TimerEvent: {}
+[4.714148] (-) TimerEvent: {}
+[4.814441] (-) TimerEvent: {}
+[4.914760] (-) TimerEvent: {}
+[5.015049] (-) TimerEvent: {}
+[5.089429] (create_own_msg) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable use_own_msg_sub\x1b[0m\n'}
+[5.115144] (-) TimerEvent: {}
+[5.215449] (-) TimerEvent: {}
+[5.315854] (-) TimerEvent: {}
+[5.348091] (create_own_msg) StdoutLine: {'line': b'[100%] Built target use_own_msg_sub\n'}
+[5.359530] (create_own_msg) CommandEnded: {'returncode': 0}
+[5.360026] (create_own_msg) JobProgress: {'identifier': 'create_own_msg', 'progress': 'install'}
+[5.367088] (create_own_msg) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg'], 'cwd': '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('LANGUAGE', 'zh_CN:zh:en_US:en'), ('USER', 'man_sui'), ('LC_TIME', 'zh_CN.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/man_sui'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('CONDA_SHLVL', '1'), ('OLDPWD', '/home/man_sui/ros_all_cpp'), ('TERM_PROGRAM_VERSION', '1.86.2'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('MANAGERPID', '1784'), ('SYSTEMD_EXEC_PID', '2211'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('_CONDA_ROOT', '/home/man_sui/miniconda3'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '3228'), ('IM_CONFIG_PHASE', '1'), ('COLCON_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'fcitx'), ('LOGNAME', 'man_sui'), ('JOURNAL_STREAM', '8:11648'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'man_sui'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/home/man_sui/.local/bin:/home/man_sui/miniconda3/bin:/home/man_sui/miniconda3/condabin:/opt/ros/humble/bin:/home/man_sui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/Legion-Y7000P-IRX10:@/tmp/.ICE-unix/2149,unix/Legion-Y7000P-IRX10:/tmp/.ICE-unix/2149'), ('INVOCATION_ID', '95414b94983c49989652e43c5c1c5056'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'zh_CN.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=fcitx'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-0944478c1a.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/man_sui/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('_CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/man_sui/ros_all_cpp/personal_create_msg/build/create_own_msg'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/man_sui/miniconda3/bin/conda'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('CONDA_PREFIX', '/home/man_sui/miniconda3'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg:/opt/ros/humble')]), 'shell': False}
+[5.374710] (create_own_msg) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[5.374908] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/rosidl_interfaces/create_own_msg\n'}
+[5.374995] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.375159] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.375239] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/own_msg.h\n'}
+[5.375304] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_generator_c__visibility_control.h\n'}
+[5.375404] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.375476] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__functions.c\n'}
+[5.375537] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__functions.h\n'}
+[5.375610] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__struct.h\n'}
+[5.375722] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.h\n'}
+[5.375837] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/library_path.sh\n'}
+[5.375913] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/library_path.dsv\n'}
+[5.375995] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_generator_c.so\n'}
+[5.376072] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.376151] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.376214] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[5.376285] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.376372] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_fastrtps_c.h\n'}
+[5.376447] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_fastrtps_c.so\n'}
+[5.376522] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.376611] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.376720] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[5.376819] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.376882] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.c\n'}
+[5.376942] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_introspection_c.h\n'}
+[5.377005] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_introspection_c.so\n'}
+[5.377064] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_c.so\n'}
+[5.377134] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.377195] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.377254] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/own_msg.hpp\n'}
+[5.377313] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_generator_cpp__visibility_control.hpp\n'}
+[5.377371] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.377428] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.hpp\n'}
+[5.377487] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__builder.hpp\n'}
+[5.377545] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__struct.hpp\n'}
+[5.377604] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__traits.hpp\n'}
+[5.377674] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.377734] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.377792] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[5.377852] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.377910] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[5.377970] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/dds_fastrtps\n'}
+[5.378028] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_fastrtps_cpp.so\n'}
+[5.378091] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg\n'}
+[5.378155] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg\n'}
+[5.378213] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail\n'}
+[5.378271] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__rosidl_typesupport_introspection_cpp.hpp\n'}
+[5.378335] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/include/create_own_msg/create_own_msg/msg/detail/own_msg__type_support.cpp\n'}
+[5.378393] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_introspection_cpp.so\n'}
+[5.378451] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_typesupport_cpp.so\n'}
+[5.378510] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/pythonpath.sh\n'}
+[5.378568] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/pythonpath.dsv\n'}
+[5.378626] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info\n'}
+[5.378686] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/PKG-INFO\n'}
+[5.378745] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[5.378805] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/top_level.txt\n'}
+[5.378867] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg-0.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[5.378925] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg\n'}
+[5.378983] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[5.379042] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.379108] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/__init__.py\n'}
+[5.379170] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_c.c\n'}
+[5.379232] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg\n'}
+[5.379291] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/_own_msg.py\n'}
+[5.379349] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/_own_msg_s.c\n'}
+[5.379407] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg/__init__.py\n'}
+[5.379465] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/_create_own_msg_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[5.379524] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/libcreate_own_msg__rosidl_generator_py.so\n'}
+[5.379583] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.379642] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.400459] (create_own_msg) StdoutLine: {'line': b"Listing '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg'...\n"}
+[5.400668] (create_own_msg) StdoutLine: {'line': b"Listing '/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/msg'...\n"}
+[5.403627] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.403763] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.403871] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/local/lib/python3.10/dist-packages/create_own_msg/create_own_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[5.403996] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/libcreate_own_msg__rosidl_generator_py.so\n'}
+[5.404076] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/rust_packages/create_own_msg\n'}
+[5.404137] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust\n'}
+[5.404197] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/build.rs\n'}
+[5.404232] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src\n'}
+[5.404267] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/lib.rs\n'}
+[5.404329] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg\n'}
+[5.404364] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg/rmw.rs\n'}
+[5.404397] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/src/msg.rs\n'}
+[5.404429] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/rust/Cargo.toml\n'}
+[5.404460] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/msg/OwnMsg.idl\n'}
+[5.404513] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/msg/OwnMsg.msg\n'}
+[5.404568] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/create_own_msg/use_own_msg_topic\n'}
+[5.404598] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/create_own_msg/use_own_msg_sub\n'}
+[5.406316] (create_own_msg) StdoutLine: {'line': b'-- Set runtime path of "/home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/lib/create_own_msg/use_own_msg_sub" to ""\n'}
+[5.406374] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/package_run_dependencies/create_own_msg\n'}
+[5.406430] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/parent_prefix_path/create_own_msg\n'}
+[5.406464] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/ament_prefix_path.sh\n'}
+[5.406520] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/ament_prefix_path.dsv\n'}
+[5.406553] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/path.sh\n'}
+[5.406586] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/environment/path.dsv\n'}
+[5.406654] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.bash\n'}
+[5.406689] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.sh\n'}
+[5.406723] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.zsh\n'}
+[5.406773] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/local_setup.dsv\n'}
+[5.406806] (create_own_msg) StdoutLine: {'line': b'-- Installing: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/package.dsv\n'}
+[5.406839] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/ament_index/resource_index/packages/create_own_msg\n'}
+[5.406894] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cExport.cmake\n'}
+[5.406928] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cExport-noconfig.cmake\n'}
+[5.406960] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[5.406992] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[5.407051] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cExport.cmake\n'}
+[5.407091] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[5.407131] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cExport.cmake\n'}
+[5.407165] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[5.407227] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_cppExport.cmake\n'}
+[5.407265] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[5.407300] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[5.407337] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[5.407371] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[5.407430] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cppExport.cmake\n'}
+[5.407461] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msg__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[5.407492] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_pyExport.cmake\n'}
+[5.407521] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/export_create_own_msg__rosidl_generator_pyExport-noconfig.cmake\n'}
+[5.407552] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake-extras.cmake\n'}
+[5.407583] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[5.407614] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[5.407678] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[5.407709] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[5.407739] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[5.407768] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[5.407800] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/rosidl_cmake_aggregate_target-extras.cmake\n'}
+[5.407827] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msgConfig.cmake\n'}
+[5.407855] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/cmake/create_own_msgConfig-version.cmake\n'}
+[5.407882] (create_own_msg) StdoutLine: {'line': b'-- Up-to-date: /home/man_sui/ros_all_cpp/personal_create_msg/install/create_own_msg/share/create_own_msg/package.xml\n'}
+[5.409430] (create_own_msg) CommandEnded: {'returncode': 0}
+[5.416354] (-) TimerEvent: {}
+[5.422639] (create_own_msg) JobEnded: {'identifier': 'create_own_msg', 'rc': 0}
+[5.423074] (-) EventReactorShutdown: {}

@@ -1,0 +1,91 @@
+[0.024s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller -DCMAKE_INSTALL_PREFIX=/home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller
+[0.067s] -- The C compiler identification is GNU 11.4.0
+[0.113s] -- The CXX compiler identification is GNU 11.4.0
+[0.121s] -- Detecting C compiler ABI info
+[0.179s] -- Detecting C compiler ABI info - done
+[0.186s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.186s] -- Detecting C compile features
+[0.187s] -- Detecting C compile features - done
+[0.189s] -- Detecting CXX compiler ABI info
+[0.253s] -- Detecting CXX compiler ABI info - done
+[0.258s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.258s] -- Detecting CXX compile features
+[0.258s] -- Detecting CXX compile features - done
+[0.260s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.372s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.457s] -- Found pluginlib: 5.1.5 (/opt/ros/humble/share/pluginlib/cmake)
+[0.490s] -- Found nav2_core: 1.1.20 (/opt/ros/humble/share/nav2_core/cmake)
+[0.512s] -- Found rosidl_generator_c: 3.1.9 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.515s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.520s] -- Found rosidl_generator_cpp: 3.1.9 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.528s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.537s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.584s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.589s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.613s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.651s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.653s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.666s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.669s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.676s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.688s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.697s] -- Looking for pthread.h
+[0.758s] -- Looking for pthread.h - found
+[0.758s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.809s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.810s] -- Found Threads: TRUE  
+[1.033s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.033s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.097s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.192s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.192s] -- Configured cppcheck include dirs: /home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/include
+[1.192s] -- Configured cppcheck exclude dirs and/or files: 
+[1.192s] -- Added test 'lint_cmake' to check CMake code style
+[1.193s] -- Added test 'uncrustify' to check C / C++ code style
+[1.193s] -- Configured uncrustify additional arguments: 
+[1.193s] -- Added test 'xmllint' to check XML markup files
+[1.194s] -- Configuring done
+[1.227s] -- Generating done
+[1.231s] -- Build files have been written to: /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller
+[1.244s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller -DCMAKE_INSTALL_PREFIX=/home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller
+[1.245s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller -- -j24 -l24
+[1.306s] [ 50%] [32mBuilding CXX object CMakeFiles/nav2_custom_controller.dir/src/custom_controller.cpp.o[0m
+[3.893s] [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:[m[K In member function ‘[01m[Kvirtual geometry_msgs::msg::TwistStamped nav2_custom_controller::CustomController::computeVelocityCommands(const PoseStamped&, const Twist&, nav2_core::GoalChecker*)[m[K’:
+[3.893s] [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:44:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kvelocity[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.893s]    44 |         [01;35m[Kconst geometry_msgs::msg::Twist & velocity[m[K,
+[3.894s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[3.894s] [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:45:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kgoal_checker[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.894s]    45 |         [01;35m[Knav2_core::GoalChecker * goal_checker[m[K)
+[3.894s]       |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[3.894s] [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:[m[K In member function ‘[01m[Kgeometry_msgs::msg::PoseStamped nav2_custom_controller::CustomController::GetNearestTargetPoint(const PoseStamped&)[m[K’:
+[3.894s] [01m[K/home/man_sui/ros_all_cpp/learn_pluginlib/src/nav2_custom_controller/src/custom_controller.cpp:95:22:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<geometry_msgs::msg::PoseStamped_<std::allocator<void> >, std::allocator<geometry_msgs::msg::PoseStamped_<std::allocator<void> > > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+[3.894s]    95 |         for(int i=1;[01;35m[Ki<global_path_.poses.size()[m[K;i++)
+[3.894s]       |                     [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[5.421s] [100%] [32m[1mLinking CXX shared library libnav2_custom_controller.so[0m
+[5.648s] [100%] Built target nav2_custom_controller
+[5.660s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller -- -j24 -l24
+[5.662s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller
+[5.672s] -- Install configuration: ""
+[5.672s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/lib/libnav2_custom_controller.so
+[5.673s] -- Set runtime path of "/home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/lib/libnav2_custom_controller.so" to ""
+[5.673s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/include/
+[5.673s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/include//nav2_custom_controller
+[5.673s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/include//nav2_custom_controller/custom_controller.hpp
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/nav2_custom_controller.xml
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/ament_index/resource_index/package_run_dependencies/nav2_custom_controller
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/ament_index/resource_index/parent_prefix_path/nav2_custom_controller
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/environment/ament_prefix_path.sh
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/environment/ament_prefix_path.dsv
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/environment/path.sh
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/environment/path.dsv
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/local_setup.bash
+[5.674s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/local_setup.sh
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/local_setup.zsh
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/local_setup.dsv
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/package.dsv
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/ament_index/resource_index/packages/nav2_custom_controller
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/ament_index/resource_index/nav2_core__pluginlib__plugin/nav2_custom_controller
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/cmake/nav2_custom_controllerConfig.cmake
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/cmake/nav2_custom_controllerConfig-version.cmake
+[5.675s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_custom_controller/share/nav2_custom_controller/package.xml
+[5.679s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_custom_controller

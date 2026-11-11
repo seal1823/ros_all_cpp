@@ -1,0 +1,4 @@
+Invoking command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo -- -j24 -l24
+Invoked command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo -- -j24 -l24
+Invoking command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo
+Invoked command in '/home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/man_sui/ros_all_cpp/ros2_tf_cpp/build/tf_cpp_demo

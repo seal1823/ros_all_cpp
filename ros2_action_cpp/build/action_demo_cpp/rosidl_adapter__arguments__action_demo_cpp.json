@@ -1,0 +1,6 @@
+{
+  "package_name": "action_demo_cpp",
+  "non_idl_tuples": [
+    "/home/man_sui/ros_all_cpp/ros2_action_cpp/src/action_demo_cpp:action/OwnAction.action"
+  ]
+}

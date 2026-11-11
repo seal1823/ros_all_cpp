@@ -1,0 +1,16 @@
+/home/man_sui/ros/install/basic_ros2/lib/basic_ros2/cpp_node
+/home/man_sui/ros/install/basic_ros2/share/ament_index/resource_index/package_run_dependencies/basic_ros2
+/home/man_sui/ros/install/basic_ros2/share/ament_index/resource_index/parent_prefix_path/basic_ros2
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/environment/ament_prefix_path.sh
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/environment/ament_prefix_path.dsv
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/environment/path.sh
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/environment/path.dsv
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/local_setup.bash
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/local_setup.sh
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/local_setup.zsh
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/local_setup.dsv
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/package.dsv
+/home/man_sui/ros/install/basic_ros2/share/ament_index/resource_index/packages/basic_ros2
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/cmake/basic_ros2Config.cmake
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/cmake/basic_ros2Config-version.cmake
+/home/man_sui/ros/install/basic_ros2/share/basic_ros2/package.xml

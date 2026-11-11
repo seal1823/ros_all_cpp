@@ -1,0 +1,33 @@
+[0.018s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner -- -j24 -l24
+[0.074s] [ 33%] [32mBuilding CXX object CMakeFiles/nav2_other_planner.dir/src/DijkstraPlanner.cpp.o[0m
+[3.457s] [ 66%] [32m[1mLinking CXX shared library libnav2_other_planner.so[0m
+[3.708s] [100%] Built target nav2_other_planner
+[3.720s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner -- -j24 -l24
+[3.721s] Invoking command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner
+[3.729s] -- Install configuration: ""
+[3.729s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/lib/libnav2_other_planner.so
+[3.729s] -- Set runtime path of "/home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/lib/libnav2_other_planner.so" to ""
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/include/
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/include//nav2_other_planner
+[3.730s] -- Installing: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/include//nav2_other_planner/DijkstraPlanner.hpp
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/include//nav2_other_planner/Commonality.hpp
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/include//nav2_other_planner/BFSPlanner.hpp
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/BFS_planner_plugin.xml
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/Dijkstra_planner_plugin.xml
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/ament_index/resource_index/package_run_dependencies/nav2_other_planner
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/ament_index/resource_index/parent_prefix_path/nav2_other_planner
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/environment/ament_prefix_path.sh
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/environment/ament_prefix_path.dsv
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/environment/path.sh
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/environment/path.dsv
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/local_setup.bash
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/local_setup.sh
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/local_setup.zsh
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/local_setup.dsv
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/package.dsv
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/ament_index/resource_index/packages/nav2_other_planner
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/ament_index/resource_index/nav2_core__pluginlib__plugin/nav2_other_planner
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/cmake/nav2_other_plannerConfig.cmake
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/cmake/nav2_other_plannerConfig-version.cmake
+[3.730s] -- Up-to-date: /home/man_sui/ros_all_cpp/learn_pluginlib/install/nav2_other_planner/share/nav2_other_planner/package.xml
+[3.731s] Invoked command in '/home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/learn_pluginlib/build/nav2_other_planner

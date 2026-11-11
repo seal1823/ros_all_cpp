@@ -1,0 +1,6 @@
+Invoking command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/man_sui/ros_all_cpp/topic_ros2/src/topic -DCMAKE_INSTALL_PREFIX=/home/man_sui/ros_all_cpp/topic_ros2/install/topic
+Invoked command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/man_sui/ros_all_cpp/topic_ros2/src/topic -DCMAKE_INSTALL_PREFIX=/home/man_sui/ros_all_cpp/topic_ros2/install/topic
+Invoking command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/topic_ros2/build/topic -- -j24 -l24
+Invoked command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/man_sui/ros_all_cpp/topic_ros2/build/topic -- -j24 -l24
+Invoking command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/topic_ros2/build/topic
+Invoked command in '/home/man_sui/ros_all_cpp/topic_ros2/build/topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/man_sui/ros_all_cpp/topic_ros2/build/topic

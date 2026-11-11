@@ -1,0 +1,8 @@
+image: room.pgm
+mode: trinary       #表示图像中的像素有三类，分别是自由、障碍和未知
+resolution: 0.05    #表示分辨率，每个像素就代表5cm
+origin: [-4.84, -3.81, 0]
+negate: 0
+#由于噪声的存在，所以需要设定某一个区间来表示像素中的三类
+occupied_thresh: 0.65
+free_thresh: 0.25
